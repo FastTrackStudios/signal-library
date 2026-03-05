@@ -1,0 +1,913 @@
+{
+  "id": "djammincabs-guitar",
+  "label": "DjamminCabs Guitar Cabinet IRs",
+  "vendor": "DjamminCabs",
+  "category": "ir",
+  "gear_model": "DjamminCabs Guitar Cabinet",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Djammincabs Guitar IR -001.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -002.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -003.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -004.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -005.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -006.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -007.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -008.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -009.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -010.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -011.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -012.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -013.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -014.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -015.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -016.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -017.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -018.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -019.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -020.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -021.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -022.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -023.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -024.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -025.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -026.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -027.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -028.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -029.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -030.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -031.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -032.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -033.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -034.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -035.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -036.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -037.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -038.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -039.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -040.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -041.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -042.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -043.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -044.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -045.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -046.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -047.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -048.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -049.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -050.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -051.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -052.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -053.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -054.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -055.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -056.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -057.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -058.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -059.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -060.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -061.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -062.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -063.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -064.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -065.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -066.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -067.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -068.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -069.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -070.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -071.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -072.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -073.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -074.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -075.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -076.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -077.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -078.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -079.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -080.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -081.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -082.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -083.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -084.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -085.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -086.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -087.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -088.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -089.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -090.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -091.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -092.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -093.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -094.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -095.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -096.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -097.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -098.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -099.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -100.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -151.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -152.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -153.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -154.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -155.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -156.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -157.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -158.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -159.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -160.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -161.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -162.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -163.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -164.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -165.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -166.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -167.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -168.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -169.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -170.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -171.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -172.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -173.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -174.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -175.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -176.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -177.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -178.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -179.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -180.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -181.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -182.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -183.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -184.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -185.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -186.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -187.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -188.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -189.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -190.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -191.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -192.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -193.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -194.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -195.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -196.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -197.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -198.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -199.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Djammincabs Guitar IR -200.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "ir/djammincabs-guitar"
+}

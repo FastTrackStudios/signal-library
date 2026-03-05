@@ -1,0 +1,43 @@
+{
+  "id": "vox-ac15-community",
+  "label": "Vox AC15 (Community)",
+  "vendor": "Vox",
+  "category": "amp",
+  "gear_model": "AC15",
+  "modeled_by": "Phillipe P",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Phillipe P VOXAC15-JonAr1.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P VOXAC15-JonAr2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P VOXAC15-JonAr3.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P VOXAC15-JonAr4.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P VOXAC15-TopBoost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/vox-ac15-community"
+}

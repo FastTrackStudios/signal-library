@@ -1,0 +1,49 @@
+{
+  "id": "ml-sound-labs-orange-rockerverb",
+  "label": "ML Sound Labs — Orange Rockerverb",
+  "vendor": "ML Sound Labs",
+  "category": "amp",
+  "gear_model": "Orange Rockerverb",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ML ORNG Rock Clean FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML ORNG Rock Drive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML ORNG Rock Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML ORNG Rock Lead FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML ORNG Rock Lead.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML ORNG Rock Clean.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

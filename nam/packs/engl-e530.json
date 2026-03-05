@@ -1,0 +1,19 @@
+{
+  "id": "engl-e530",
+  "label": "ENGL e530 Preamp",
+  "vendor": "ENGL",
+  "category": "amp",
+  "gear_model": "e530 Preamp",
+  "modeled_by": "Tom C",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tom C Engl e530 preamp & 840 power amp with Boss DS1 Overdrive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/engl-e530"
+}

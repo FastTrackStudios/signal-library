@@ -1,0 +1,79 @@
+{
+  "id": "ceriatone-king-kong",
+  "label": "Ceriatone King Kong",
+  "vendor": "Ceriatone",
+  "category": "amp",
+  "gear_model": "King Kong",
+  "modeled_by": "George B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "George B Ceriatone King Kong  KK Ch2 60s solo 80s.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong  chan2 60s br sw2 L.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong Channel 1 60s mode.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong Channel 2 80s mode both br sw R.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong NAM Capture Bogner Blue Chase Tone Secret Pre Deco.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong NAM Capture Boosted peace keeper Chase Tone Secret Pre Deco v2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong NAM Capture Broadcast Chase Tone Secret Pre Deco.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong NAM Capture Protein Chase Tone Secret Pre Deco .nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong NAM Capture Turbo Nonna Chase Tone Secret Pre Deco.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B Ceriatone King Kong chan2 70s both br sw L.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "George B V4 Countess 300eps.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/ceriatone-king-kong"
+}

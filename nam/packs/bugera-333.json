@@ -1,0 +1,73 @@
+{
+  "id": "bugera-333",
+  "label": "Bugera 333",
+  "vendor": "Bugera",
+  "category": "amp",
+  "gear_model": "333",
+  "modeled_by": "Phillipe P / Roman A",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Phillipe P Bug333-Clean-Cab-ESR0,007.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bug333-Clean-ESR0,002.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bug333-Crunch-DT-Cab-ESR0,014.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bug333-Crunch-DT-ESR0,0133.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bug333-Crunch-NoDrive-Cab-ESR0,005.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bug333-Crunch-NoDrive-ESR0,002.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bug333-Lead-NoDrive-Cab-ESR0,007.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bug333-Lead-NoDrive-ESR0,004.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Roman A BUGERA_333.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Roman A BUGERA_333_BOOSTED.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/bugera-333"
+}

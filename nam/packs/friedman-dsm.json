@@ -1,0 +1,25 @@
+{
+  "id": "friedman-dsm",
+  "label": "Friedman DSM",
+  "vendor": "Friedman",
+  "category": "amp",
+  "gear_model": "DSM",
+  "modeled_by": "Sascha S",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Sascha S FriedmanDSM_PowerAmpEL84_MV10_feather.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S FriedmanDSM_PowerAmpEL84_MV6_feather.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/friedman-dsm"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "irworkshop-big-stadium",
+  "label": "IRWorkshop Big Stadium",
+  "vendor": "IRWorkshop",
+  "category": "ir",
+  "gear_model": "Big Stadium Synthetic Cab",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [
+    "open",
+    "roomy"
+  ],
+  "files": {
+    "BigStadium-Base-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Base-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Base-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Base-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Base.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey1-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey1-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey1-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey1-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey2-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey2-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey2-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey2-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey3-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey3-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey3-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey3-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BigStadium-Phasey3.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "ir/irworkshop-synthetic"
+}

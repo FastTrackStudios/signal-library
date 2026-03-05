@@ -1,0 +1,19 @@
+{
+  "id": "uad-dream-deluxe",
+  "label": "UAD — Dream Deluxe",
+  "vendor": "Universal Audio",
+  "category": "amp",
+  "gear_model": "Dream Deluxe",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "UAD Dream Deluxe.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

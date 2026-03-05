@@ -1,0 +1,119 @@
+{
+  "id": "irworkshop-vintage-muffled",
+  "label": "IRWorkshop Vintage Muffled",
+  "vendor": "IRWorkshop",
+  "category": "ir",
+  "gear_model": "Vintage Muffled Synthetic Cab",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [
+    "vintage",
+    "dark",
+    "muffled"
+  ],
+  "files": {
+    "VintageMuffled-Base-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Base-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Base-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Base.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey1-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey1-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey1-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey2-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey2-Skew115.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey2-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey3-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey3-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey3-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey3-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VintageMuffled-Phasey3.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "ir/irworkshop-synthetic"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "irworkshop-genius",
+  "label": "IRWorkshop Genius",
+  "vendor": "IRWorkshop",
+  "category": "ir",
+  "gear_model": "Genius Synthetic Cab",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [
+    "balanced"
+  ],
+  "files": {
+    "Genius-Base-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Base-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Base-Skew130.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Base-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Base.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey1-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey1-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey1-Skew130.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey1-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey2-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey2-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey2-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey2-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey3-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey3-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey3-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey3-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Genius-Phasey3.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "ir/irworkshop-synthetic"
+}

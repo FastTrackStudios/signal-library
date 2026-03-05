@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "plugin_name": "ValhallaSupermassive",
+  "vendor": "Valhalla DSP, LLC",
+  "plugin_type": "VST3",
+  "parameter_count": 22,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "Mix",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 1,
+      "name": "DelaySync",
+      "default_value": 0.25,
+      "formatted": "Msec",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "DelayNote",
+      "default_value": 0.2857142984867096,
+      "formatted": "1/16",
+      "is_toggle": false
+    },
+    {
+      "index": 3,
+      "name": "Delay_Ms",
+      "default_value": 0.5,
+      "formatted": "300.0 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 4,
+      "name": "DelayWarp",
+      "default_value": 0.0,
+      "formatted": "0.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "Clear",
+      "default_value": 1.0,
+      "formatted": "Cleared",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "Feedback",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "Density",
+      "default_value": 0.0,
+      "formatted": "0.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 8,
+      "name": "Width",
+      "default_value": 1.0,
+      "formatted": "100.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 9,
+      "name": "LowCut",
+      "default_value": 0.0,
+      "formatted": "10 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 10,
+      "name": "HighCut",
+      "default_value": 1.0,
+      "formatted": "20000 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 11,
+      "name": "ModRate",
+      "default_value": 0.27383410930633545,
+      "formatted": "0.50 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 12,
+      "name": "ModDepth",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 13,
+      "name": "Mode",
+      "default_value": 0.25,
+      "formatted": "Andromeda",
+      "is_toggle": false
+    },
+    {
+      "index": 14,
+      "name": "Reserved1",
+      "default_value": 0.0,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "Reserved2",
+      "default_value": 0.0,
+      "formatted": "0.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 16,
+      "name": "Reserved3",
+      "default_value": 0.0,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 17,
+      "name": "Reserved4",
+      "default_value": 0.0,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 18,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 19,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 20,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 21,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

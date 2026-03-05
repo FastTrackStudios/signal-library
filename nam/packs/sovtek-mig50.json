@@ -1,0 +1,37 @@
+{
+  "id": "sovtek-mig50",
+  "label": "Sovtek MIG-50",
+  "vendor": "Sovtek",
+  "category": "amp",
+  "gear_model": "MIG-50",
+  "modeled_by": "Mikhail K",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Mikhail K SovtekMIG50 + DOD FX56B.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Mikhail K SovtekMIG50 + Klone.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Mikhail K SovtekMIG50 + SparkleDrive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Mikhail K SovtekMIG50 + ThroneTorcher.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/sovtek-mig50"
+}

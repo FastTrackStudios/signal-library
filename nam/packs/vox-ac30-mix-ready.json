@@ -1,0 +1,25 @@
+{
+  "id": "vox-ac30-mix-ready",
+  "label": "Vox AC30 Mix Ready",
+  "vendor": "Vox",
+  "category": "ir",
+  "gear_model": "Vox AC30 Mix Ready",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "VOX AC30 BLUE 2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "VOX AC30 BLUE 1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

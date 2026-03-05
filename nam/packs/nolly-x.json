@@ -1,0 +1,19 @@
+{
+  "id": "nolly-x",
+  "label": "Nolly X",
+  "vendor": "Nolly",
+  "category": "archetype",
+  "gear_model": "Nolly X",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Archetype Nolly X.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

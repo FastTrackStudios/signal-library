@@ -1,0 +1,19 @@
+{
+  "id": "extreme-metal-pack-marshall-800",
+  "label": "Extreme Metal Pack — Marshall 800",
+  "vendor": "Extreme Metal Pack",
+  "category": "amp",
+  "gear_model": "Marshall 800",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Marsh 800_AgroTS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

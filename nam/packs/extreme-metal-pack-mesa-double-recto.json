@@ -1,0 +1,31 @@
+{
+  "id": "extreme-metal-pack-mesa-double-recto",
+  "label": "Extreme Metal Pack — Mesa Double Recto",
+  "vendor": "Extreme Metal Pack",
+  "category": "amp",
+  "gear_model": "Mesa Double Recto",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Messy Double Recto_33.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Messy Double Recto_Grind.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Messy Double Recto_MudKiller.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

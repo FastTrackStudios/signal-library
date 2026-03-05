@@ -1,0 +1,181 @@
+{
+  "id": "matchless-clubman-35",
+  "label": "Matchless Clubman 35",
+  "vendor": "Matchless",
+  "category": "amp",
+  "gear_model": "Matchless Clubman 35",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Clubman dark EoB Hi v10 b09 t10 b09 m10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR OD Lo v02 b10  t10 br10 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman balanced Clean v08 b09 t12 br10 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman power amp Hi.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR EoB Lo v10 b10.5 t12 br11 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR Push Lo v12 b10.5 t12 br11 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman balanced EoB v10 b09 t12 br10 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright Push Lo v12 b10 t12 br01 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright Clean Hi v08 b12 t12 br02 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman balanced Lead v04 b08 t12 br10 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright Lead2 Hi v04 b08 t02 br01 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman power amp Lo.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR Clean 2 Lo v08 b10.5 t11 br11 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman dark OD Hi v02 b09 t10 br09 m10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman balanced Push v12 b09 t12 br10 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman dark Lead Hi v04 b08 t11 br09 m10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright EoB Lo v10 b12 t12 br01 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright Clean Lo v08 b12 t12 br12 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR Clean 1 Lo v08 b10.5 t10 br10 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright OD Lo v02 b10 t12 br01 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR Lead Lo v04 b09  t11 br10 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman balanced OD v02 b09 t12 br10 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR Lead 2 Hi v03 b10  t12 br10 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright Clean Lo v08 b12 t12 br02 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman bright Lead Lo v04 b09 t01 br12 m12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman dark Clean Hi v08 b09 t10 b09 m10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman SSR Clean 3 Lo v08 b10.5 t12 br11 ma12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Clubman dark Pushed Hi v12 b09 t10 b09 m10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

@@ -1,0 +1,79 @@
+{
+  "id": "peavey-xxx",
+  "label": "Peavey XXX",
+  "vendor": "Peavey",
+  "category": "amp",
+  "gear_model": "XXX",
+  "modeled_by": "Helga B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Helga B PP Rot Mid Boost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B PP Rot Mid Scoop.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B PP Wendigo.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-6L6-M77-ESR0015.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-6L6-OD808-ESR0015.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-6L6-PP-Rot-MidBoost-ESR056.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-6L6-PP-Rot-MidScoop-ESR061.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-6L6-Wendigo-ESR0,016.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-KT77-M77.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-KT77-NoBoost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B XXX-KT77-OD808.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/peavey-xxx"
+}

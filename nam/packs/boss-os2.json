@@ -1,0 +1,19 @@
+{
+  "id": "boss-os2",
+  "label": "Boss OS-2",
+  "vendor": "Boss",
+  "category": "drive",
+  "gear_model": "OS-2",
+  "modeled_by": "Helga B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Helga B Boss OS-2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/boss-os2"
+}

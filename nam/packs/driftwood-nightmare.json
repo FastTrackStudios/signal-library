@@ -1,0 +1,31 @@
+{
+  "id": "driftwood-nightmare",
+  "label": "Driftwood Nightmare",
+  "vendor": "Driftwood",
+  "category": "amp",
+  "gear_model": "Nightmare",
+  "modeled_by": "Tudor N",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tudor N Driftwood Nightmare High Gain   HM2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tudor N Driftwood Nightmare Low Gain   TS.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tudor N Driftwood Nightmare Low Gain.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/driftwood-nightmare"
+}

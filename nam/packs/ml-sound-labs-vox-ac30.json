@@ -1,0 +1,49 @@
+{
+  "id": "ml-sound-labs-vox-ac30",
+  "label": "ML Sound Labs — Vox AC30",
+  "vendor": "ML Sound Labs",
+  "category": "amp",
+  "gear_model": "Vox AC30",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ML VX30 1964 Clean FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML VX30 '64 Overdrive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML VX30 '64 Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML VX30 '64 Clean.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML VX30 1964 Overdrive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML VX30 1964 Drive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

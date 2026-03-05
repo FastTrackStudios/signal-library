@@ -1,0 +1,91 @@
+{
+  "id": "magnatone-super-59",
+  "label": "Magnatone Super 59 MKii",
+  "vendor": "Magnatone",
+  "category": "amp",
+  "gear_model": "Super 59 MKii",
+  "modeled_by": "Tim R",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tim R Magnatone Super 59 MKii - TS9 On Full.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 MKii Bridged Blend.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 MKii Bridged Driven.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Bridged BR Bias.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Bridged Kloned.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Ch1 Br.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Ch1 Norm.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Ch2 Br.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Ch2 Norm.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Max'd TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Max'd.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Pushed TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Magnatone Super 59 Mkii Pushed.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/magnatone-super-59"
+}

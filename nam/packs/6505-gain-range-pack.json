@@ -1,0 +1,193 @@
+{
+  "id": "6505-gain-range-pack",
+  "label": "6505+ Gain Range Pack",
+  "vendor": "Peavey",
+  "category": "amp",
+  "gear_model": "6505+ Gain Range Pack",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "APP-6505Plus-Scooped-Gain-08.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-03.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-03.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-06.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-02.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-08.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-09.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-01.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-02.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-05.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-04.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-02.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-07.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-04.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-05.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-04.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-06.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-09.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-09.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-01.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-05.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-08.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-MidForward-Gain-07.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-03.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Clean-Gain-06.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-07.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "APP-6505Plus-Scooped-Gain-01.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

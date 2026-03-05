@@ -1,0 +1,25 @@
+{
+  "id": "boss-ds1",
+  "label": "Boss DS-1",
+  "vendor": "Boss",
+  "category": "drive",
+  "gear_model": "DS-1",
+  "modeled_by": "Keith B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Keith B DS1_g6_t5.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Keith B DS1_maxg_t5.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/boss-ds1"
+}

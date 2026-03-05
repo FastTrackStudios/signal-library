@@ -1,0 +1,25 @@
+{
+  "id": "the-legend-celestion-vintage-30-4x12",
+  "label": "The legend Celestion Vintage 30 4x12",
+  "vendor": "The",
+  "category": "ir",
+  "gear_model": "The legend Celestion Vintage 30 4x12",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Vintage 30 4x12 close.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vintage 30 4x12 big.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "engl-fireball-pack",
+  "label": "ENGL Fireball Pack",
+  "vendor": "ENGL",
+  "category": "amp",
+  "gear_model": "ENGL Fireball Pack",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ENGL Fireball mid.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ENGL Fireball.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ENGL Fireball+Ts9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ENGL Fireball+precision drive 3.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ENGL Fireball presence 0.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ENGL Fireball + Ts808.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ENGL Fireball +line driver.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ENGL Fireball presence 9h.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

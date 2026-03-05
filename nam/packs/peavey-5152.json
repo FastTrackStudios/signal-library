@@ -1,0 +1,43 @@
+{
+  "id": "peavey-5152",
+  "label": "Peavey 5152",
+  "vendor": "Peavey",
+  "category": "amp",
+  "gear_model": "5152",
+  "modeled_by": "Tim R",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tim R 5152 Clean ish.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R 5152 Crunch + TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R 5152 Crunch No Boost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R 5152 Lead + TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R 5152 Lead No Boost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/peavey-5152"
+}

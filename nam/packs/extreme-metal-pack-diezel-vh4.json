@@ -1,0 +1,19 @@
+{
+  "id": "extreme-metal-pack-diezel-vh4",
+  "label": "Extreme Metal Pack — Diezel VH4",
+  "vendor": "Extreme Metal Pack",
+  "category": "amp",
+  "gear_model": "Diezel VH4",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "VH4_MudKiller.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

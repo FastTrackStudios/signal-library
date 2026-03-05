@@ -1,0 +1,969 @@
+{
+  "schema_version": 1,
+  "plugin_name": "BigSky",
+  "vendor": "Strymon",
+  "plugin_type": "VST3",
+  "parameter_count": 120,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "MIX",
+      "default_value": 0.29921260476112366,
+      "formatted": "  38",
+      "is_toggle": false
+    },
+    {
+      "index": 1,
+      "name": "EFFECT TYPE",
+      "default_value": 0.6363636255264282,
+      "formatted": "ROOM",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "Input",
+      "default_value": 0.5,
+      "formatted": "  0",
+      "is_toggle": false
+    },
+    {
+      "index": 3,
+      "name": "Output",
+      "default_value": 0.5,
+      "formatted": "  0",
+      "is_toggle": false
+    },
+    {
+      "index": 4,
+      "name": "BLOOM_Decay",
+      "default_value": 0.5515218377113342,
+      "formatted": "3360",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "BLOOM_PreDelay",
+      "default_value": 0.0,
+      "formatted": "   0",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "BLOOM_Tone",
+      "default_value": 0.8110235929489136,
+      "formatted": " 103",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "BLOOM_MOD",
+      "default_value": 0.4251968562602997,
+      "formatted": "  54",
+      "is_toggle": false
+    },
+    {
+      "index": 8,
+      "name": "BLOOM LowEnd",
+      "default_value": 0.6499999761581421,
+      "formatted": "3",
+      "is_toggle": false
+    },
+    {
+      "index": 9,
+      "name": "BLOOM_Length",
+      "default_value": 0.1764705926179886,
+      "formatted": "  4",
+      "is_toggle": false
+    },
+    {
+      "index": 10,
+      "name": "BLOOM_Feedback",
+      "default_value": 0.0,
+      "formatted": "  1",
+      "is_toggle": false
+    },
+    {
+      "index": 11,
+      "name": "BLOOM_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 12,
+      "name": "BLOOM_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 13,
+      "name": "CLOUD_Decay",
+      "default_value": 0.3276737928390503,
+      "formatted": "2340",
+      "is_toggle": false
+    },
+    {
+      "index": 14,
+      "name": "CLOUD_PreDelay",
+      "default_value": 0.25196850299835205,
+      "formatted": "  32",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "CLOUD_Tone",
+      "default_value": 0.8661417365074158,
+      "formatted": " 110",
+      "is_toggle": false
+    },
+    {
+      "index": 16,
+      "name": "CLOUD_MOD",
+      "default_value": 0.6377952694892883,
+      "formatted": "  81",
+      "is_toggle": false
+    },
+    {
+      "index": 17,
+      "name": "CLOUD_LowEnd",
+      "default_value": 0.4000000059604645,
+      "formatted": "-2",
+      "is_toggle": false
+    },
+    {
+      "index": 18,
+      "name": "CLOUD_Diffusion",
+      "default_value": 0.699999988079071,
+      "formatted": "4",
+      "is_toggle": false
+    },
+    {
+      "index": 19,
+      "name": "CLOUD_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 20,
+      "name": "CLOUD_InfFreeze",
+      "default_value": 0.0,
+      "formatted": "FREEZE",
+      "is_toggle": true
+    },
+    {
+      "index": 21,
+      "name": "CHORALE_Decay",
+      "default_value": 0.7333312630653381,
+      "formatted": "7670",
+      "is_toggle": false
+    },
+    {
+      "index": 22,
+      "name": "CHORALE_PreDelay",
+      "default_value": 0.4409448802471161,
+      "formatted": "  56",
+      "is_toggle": false
+    },
+    {
+      "index": 23,
+      "name": "CHORALE_Tone",
+      "default_value": 0.7086614370346069,
+      "formatted": "  90",
+      "is_toggle": false
+    },
+    {
+      "index": 24,
+      "name": "CHORALE_MOD",
+      "default_value": 0.6377952694892883,
+      "formatted": "  81",
+      "is_toggle": false
+    },
+    {
+      "index": 25,
+      "name": "CHORALE_Resonance",
+      "default_value": 0.5,
+      "formatted": "MEDIUM",
+      "is_toggle": false,
+      "step_count": 2,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": " MILD "
+        },
+        {
+          "value": 1.0,
+          "label": " HIGH "
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "name": "CHORALE_Vowel",
+      "default_value": 0.0,
+      "formatted": "AAHHOO",
+      "is_toggle": false,
+      "step_count": 6,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "AAHHOO"
+        },
+        {
+          "value": 0.2,
+          "label": " AAHH "
+        },
+        {
+          "value": 0.4,
+          "label": "AAHHOH"
+        },
+        {
+          "value": 0.6,
+          "label": "OOOHOH"
+        },
+        {
+          "value": 0.8,
+          "label": " OOOO "
+        },
+        {
+          "value": 1.0,
+          "label": "RANDOM"
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "name": "CHORALE_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 28,
+      "name": "CHORALE_InfFreeze",
+      "default_value": 0.0,
+      "formatted": "FREEZE",
+      "is_toggle": true
+    },
+    {
+      "index": 29,
+      "name": "SHIMMER_Decay",
+      "default_value": 0.7333312630653381,
+      "formatted": "7670",
+      "is_toggle": false
+    },
+    {
+      "index": 30,
+      "name": "SHIMMER_PreDelay",
+      "default_value": 0.0,
+      "formatted": "   0",
+      "is_toggle": false
+    },
+    {
+      "index": 31,
+      "name": "SHIMMER_Tone",
+      "default_value": 0.8582677245140076,
+      "formatted": " 109",
+      "is_toggle": false
+    },
+    {
+      "index": 32,
+      "name": "SHIMMER_MOD",
+      "default_value": 0.7952755689620972,
+      "formatted": " 101",
+      "is_toggle": false
+    },
+    {
+      "index": 33,
+      "name": "SHIMMER_LowEnd",
+      "default_value": 0.8500000238418579,
+      "formatted": "7",
+      "is_toggle": false
+    },
+    {
+      "index": 34,
+      "name": "SHIMMER_Mode",
+      "default_value": 0.5,
+      "formatted": "REGEN",
+      "is_toggle": false,
+      "step_count": 2,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "INPUT"
+        },
+        {
+          "value": 1.0,
+          "label": "IN+REGEN"
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "name": "SHIMMER_Shift1",
+      "default_value": 0.9259259104728699,
+      "formatted": " +OCT ",
+      "is_toggle": false
+    },
+    {
+      "index": 36,
+      "name": "SHIMMER_Shift2",
+      "default_value": 1.0,
+      "formatted": "+2 OCT",
+      "is_toggle": false
+    },
+    {
+      "index": 37,
+      "name": "SHIMMER_Amount",
+      "default_value": 0.6666666865348816,
+      "formatted": " 12",
+      "is_toggle": false
+    },
+    {
+      "index": 38,
+      "name": "SHIMMER_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 39,
+      "name": "SHIMMER_InfFreeze",
+      "default_value": 0.0,
+      "formatted": "FREEZE",
+      "is_toggle": true
+    },
+    {
+      "index": 40,
+      "name": "MAGNETO_DelayTime",
+      "default_value": 0.557137131690979,
+      "formatted": " 397",
+      "is_toggle": false
+    },
+    {
+      "index": 41,
+      "name": "MAGNETO_Feedback",
+      "default_value": 0.834645688533783,
+      "formatted": " 106",
+      "is_toggle": false
+    },
+    {
+      "index": 42,
+      "name": "MAGNETO_Tone",
+      "default_value": 0.8582677245140076,
+      "formatted": " 109",
+      "is_toggle": false
+    },
+    {
+      "index": 43,
+      "name": "MAGNETO_WowAndFlutter",
+      "default_value": 0.3779527544975281,
+      "formatted": "  48",
+      "is_toggle": false
+    },
+    {
+      "index": 44,
+      "name": "MAGNETO_LowEnd",
+      "default_value": 0.20000000298023224,
+      "formatted": "-6",
+      "is_toggle": false
+    },
+    {
+      "index": 45,
+      "name": "MAGNETO_Diffusion",
+      "default_value": 0.550000011920929,
+      "formatted": "1",
+      "is_toggle": false
+    },
+    {
+      "index": 46,
+      "name": "MAGNETO_Heads",
+      "default_value": 0.0,
+      "formatted": "  3   ",
+      "is_toggle": false,
+      "step_count": 2,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "  3   "
+        },
+        {
+          "value": 1.0,
+          "label": "  6   "
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "name": "MAGNETO_Spacing",
+      "default_value": 0.0,
+      "formatted": " EVEN ",
+      "is_toggle": true
+    },
+    {
+      "index": 48,
+      "name": "MAGNETO_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 49,
+      "name": "MAGNETO_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 50,
+      "name": "NONLINEAR_Time",
+      "default_value": 0.5484778881072998,
+      "formatted": " 824",
+      "is_toggle": false
+    },
+    {
+      "index": 51,
+      "name": "NONLINEAR_Feedback",
+      "default_value": 0.0,
+      "formatted": "   0",
+      "is_toggle": false
+    },
+    {
+      "index": 52,
+      "name": "NONLINEAR_Tone",
+      "default_value": 0.8031495809555054,
+      "formatted": " 102",
+      "is_toggle": false
+    },
+    {
+      "index": 53,
+      "name": "NONLINEAR_MOD",
+      "default_value": 0.0,
+      "formatted": "   0",
+      "is_toggle": false
+    },
+    {
+      "index": 54,
+      "name": "NONLINEAR_LowEnd",
+      "default_value": 0.550000011920929,
+      "formatted": "1",
+      "is_toggle": false
+    },
+    {
+      "index": 55,
+      "name": "NONLINEAR_Shape",
+      "default_value": 0.20000000298023224,
+      "formatted": "REVERS",
+      "is_toggle": false,
+      "step_count": 5,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "SWOOSH"
+        },
+        {
+          "value": 0.25,
+          "label": "REVERS"
+        },
+        {
+          "value": 0.5,
+          "label": " RAMP "
+        },
+        {
+          "value": 0.75,
+          "label": "GAUSS "
+        },
+        {
+          "value": 1.0,
+          "label": "BOUNCE"
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "name": "NONLINEAR_Diffusion",
+      "default_value": 0.25,
+      "formatted": "-5",
+      "is_toggle": false
+    },
+    {
+      "index": 57,
+      "name": "NONLINEAR_Decay",
+      "default_value": 0.6470588445663452,
+      "formatted": " 12",
+      "is_toggle": false
+    },
+    {
+      "index": 58,
+      "name": "NONLINEAR_Level",
+      "default_value": 0.4444444477558136,
+      "formatted": "  8",
+      "is_toggle": false
+    },
+    {
+      "index": 59,
+      "name": "NONLINEAR_ModSpeed",
+      "default_value": 0.8823529481887817,
+      "formatted": " 16",
+      "is_toggle": false
+    },
+    {
+      "index": 60,
+      "name": "NONLINEAR_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 61,
+      "name": "NONLINEAR_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 62,
+      "name": "REFLECTIONS_RoomSize",
+      "default_value": 1.0,
+      "formatted": " 400",
+      "is_toggle": false
+    },
+    {
+      "index": 63,
+      "name": "REFLECTIONS_PreDelay",
+      "default_value": 0.4803149700164795,
+      "formatted": "  61",
+      "is_toggle": false
+    },
+    {
+      "index": 64,
+      "name": "REFLECTIONS_Damping",
+      "default_value": 0.4960629940032959,
+      "formatted": "  63",
+      "is_toggle": false
+    },
+    {
+      "index": 65,
+      "name": "REFLECTIONS_MOD",
+      "default_value": 0.07874015718698502,
+      "formatted": "  10",
+      "is_toggle": false
+    },
+    {
+      "index": 66,
+      "name": "REFLECTIONS_LowEnd",
+      "default_value": 0.6000000238418579,
+      "formatted": "2",
+      "is_toggle": false
+    },
+    {
+      "index": 67,
+      "name": "REFLECTIONS_RoomShape",
+      "default_value": 1.0,
+      "formatted": "OBLONG",
+      "is_toggle": false,
+      "step_count": 2,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "SQUARE"
+        },
+        {
+          "value": 1.0,
+          "label": "OBLONG"
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "name": "REFLECTIONS_X",
+      "default_value": 0.3333333432674408,
+      "formatted": "L  *    R",
+      "is_toggle": false
+    },
+    {
+      "index": 69,
+      "name": "REFLECTIONS_Y",
+      "default_value": 0.0,
+      "formatted": "F*      B",
+      "is_toggle": false
+    },
+    {
+      "index": 70,
+      "name": "REFLECTIONS_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 71,
+      "name": "REFLECTIONS_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 72,
+      "name": "ROOM_Decay",
+      "default_value": 0.489846408367157,
+      "formatted": "1340",
+      "is_toggle": false
+    },
+    {
+      "index": 73,
+      "name": "ROOM_PreDelay",
+      "default_value": 0.18897637724876404,
+      "formatted": "  24",
+      "is_toggle": false
+    },
+    {
+      "index": 74,
+      "name": "ROOM_Tone",
+      "default_value": 0.3858267664909363,
+      "formatted": "  49",
+      "is_toggle": false
+    },
+    {
+      "index": 75,
+      "name": "ROOM_MOD",
+      "default_value": 0.3937007784843445,
+      "formatted": "  50",
+      "is_toggle": false
+    },
+    {
+      "index": 76,
+      "name": "ROOM_LowEnd",
+      "default_value": 0.30000001192092896,
+      "formatted": "-4",
+      "is_toggle": false
+    },
+    {
+      "index": 77,
+      "name": "ROOM_Diffusion",
+      "default_value": 0.10000000149011612,
+      "formatted": "-8",
+      "is_toggle": false
+    },
+    {
+      "index": 78,
+      "name": "ROOM_Size",
+      "default_value": 0.0,
+      "formatted": "STUDIO",
+      "is_toggle": true
+    },
+    {
+      "index": 79,
+      "name": "ROOM_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 80,
+      "name": "ROOM_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 81,
+      "name": "HALL_Decay",
+      "default_value": 0.5283370614051819,
+      "formatted": "2990",
+      "is_toggle": false
+    },
+    {
+      "index": 82,
+      "name": "HALL_PreDelay",
+      "default_value": 0.4330708682537079,
+      "formatted": "  55",
+      "is_toggle": false
+    },
+    {
+      "index": 83,
+      "name": "HALL_Tone",
+      "default_value": 0.5905511975288391,
+      "formatted": "  75",
+      "is_toggle": false
+    },
+    {
+      "index": 84,
+      "name": "HALL_MOD",
+      "default_value": 0.3937007784843445,
+      "formatted": "  50",
+      "is_toggle": false
+    },
+    {
+      "index": 85,
+      "name": "HALL_LowEnd",
+      "default_value": 0.5,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 86,
+      "name": "HALL_MidEQ",
+      "default_value": 0.5,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 87,
+      "name": "HALL_Size",
+      "default_value": 0.0,
+      "formatted": "CONCERT",
+      "is_toggle": true
+    },
+    {
+      "index": 88,
+      "name": "HALL_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 89,
+      "name": "HALL_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 90,
+      "name": "PLATE_Decay",
+      "default_value": 0.5430072546005249,
+      "formatted": "3220",
+      "is_toggle": false
+    },
+    {
+      "index": 91,
+      "name": "PLATE_PreDelay",
+      "default_value": 0.0,
+      "formatted": "   0",
+      "is_toggle": false
+    },
+    {
+      "index": 92,
+      "name": "PLATE_Tone",
+      "default_value": 0.4566929042339325,
+      "formatted": "  58",
+      "is_toggle": false
+    },
+    {
+      "index": 93,
+      "name": "PLATE_MOD",
+      "default_value": 0.31496062874794006,
+      "formatted": "  40",
+      "is_toggle": false
+    },
+    {
+      "index": 94,
+      "name": "PLATE_LowEnd",
+      "default_value": 0.25,
+      "formatted": "-5",
+      "is_toggle": false
+    },
+    {
+      "index": 95,
+      "name": "PLATE_Size",
+      "default_value": 1.0,
+      "formatted": "LARGE ",
+      "is_toggle": true
+    },
+    {
+      "index": 96,
+      "name": "PLATE_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 97,
+      "name": "PLATE_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 98,
+      "name": "SPRING_Decay",
+      "default_value": 0.5826057195663452,
+      "formatted": "3020",
+      "is_toggle": false
+    },
+    {
+      "index": 99,
+      "name": "SPRING_PreDelay",
+      "default_value": 0.0,
+      "formatted": "   0",
+      "is_toggle": false
+    },
+    {
+      "index": 100,
+      "name": "SPRING_Tone",
+      "default_value": 0.4173228442668915,
+      "formatted": "  53",
+      "is_toggle": false
+    },
+    {
+      "index": 101,
+      "name": "SPRING_MOD",
+      "default_value": 0.10236220806837082,
+      "formatted": "  13",
+      "is_toggle": false
+    },
+    {
+      "index": 102,
+      "name": "SPRING_LowEnd",
+      "default_value": 0.5,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 103,
+      "name": "SPRING_Dwell",
+      "default_value": 0.3333333432674408,
+      "formatted": "COMBO",
+      "is_toggle": false,
+      "step_count": 3,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "CLEAN"
+        },
+        {
+          "value": 0.5,
+          "label": "TUBE"
+        },
+        {
+          "value": 1.0,
+          "label": "OVERDRIVE"
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "name": "SPRING_Springs",
+      "default_value": 0.5,
+      "formatted": "  2   ",
+      "is_toggle": false,
+      "step_count": 2,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "  1   "
+        },
+        {
+          "value": 1.0,
+          "label": "  3   "
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "name": "SPRING_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 106,
+      "name": "SPRING_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 107,
+      "name": "SWELL_Decay",
+      "default_value": 0.6212931275367737,
+      "formatted": "4700",
+      "is_toggle": false
+    },
+    {
+      "index": 108,
+      "name": "SWELL_PreDelay",
+      "default_value": 0.0,
+      "formatted": "   0",
+      "is_toggle": false
+    },
+    {
+      "index": 109,
+      "name": "SWELL_Tone",
+      "default_value": 0.8031495809555054,
+      "formatted": " 102",
+      "is_toggle": false
+    },
+    {
+      "index": 110,
+      "name": "SWELL_MOD",
+      "default_value": 0.8267716765403748,
+      "formatted": " 105",
+      "is_toggle": false
+    },
+    {
+      "index": 111,
+      "name": "SWELL_LowEnd",
+      "default_value": 0.699999988079071,
+      "formatted": "4",
+      "is_toggle": false
+    },
+    {
+      "index": 112,
+      "name": "SWELL_RiseTime",
+      "default_value": 0.5,
+      "formatted": " 0.60 ",
+      "is_toggle": false
+    },
+    {
+      "index": 113,
+      "name": "SWELL_Mode",
+      "default_value": 1.0,
+      "formatted": "DRY",
+      "is_toggle": true
+    },
+    {
+      "index": 114,
+      "name": "SWELL_Hold",
+      "default_value": 0.0,
+      "formatted": "  OFF ",
+      "is_toggle": true
+    },
+    {
+      "index": 115,
+      "name": "SWELL_InfFreeze",
+      "default_value": 1.0,
+      "formatted": "INFNTE",
+      "is_toggle": true
+    },
+    {
+      "index": 116,
+      "name": "BYPASS",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 117,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 118,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 119,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

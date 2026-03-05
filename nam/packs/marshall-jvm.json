@@ -1,0 +1,61 @@
+{
+  "id": "marshall-jvm",
+  "label": "Marshall JVM",
+  "vendor": "Marshall",
+  "category": "amp",
+  "gear_model": "JVM",
+  "modeled_by": "Phillipe P",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Phillipe P JVM-CL-GR-NoDrive-Cab-ESR0,007.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P JVM-CL-GR-NoDrive-ESR0,005.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P JVM-CR-OR-NoDrive-ESR0,017.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P JVM-CR-OR-SD1-ESR0,018.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P JVM-OD1-GR-M77-ESR0,018.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P JVM-OD1-GR-NoDrive-ESR0,015.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P JVM-OD2-RD-NoDrive-Cab-ESR0,006.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P JVM-OD2-RD-NoDrive-ESR0,003.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/marshall-jvm"
+}

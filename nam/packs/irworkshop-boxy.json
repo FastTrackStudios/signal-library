@@ -1,0 +1,106 @@
+{
+  "id": "irworkshop-boxy",
+  "label": "IRWorkshop Boxy",
+  "vendor": "IRWorkshop",
+  "category": "ir",
+  "gear_model": "Boxy Synthetic Cab",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [
+    "boxy",
+    "tight"
+  ],
+  "files": {
+    "Boxy-Base-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Base-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Base-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Base-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Base.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey1-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey1-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey1-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey1-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey2-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey2-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey2-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey2-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Boxy-Phasey2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "ir/irworkshop-synthetic"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ml-sound-labs-mesa-boogie-dual-rectifier",
+  "label": "ML Sound Labs — Mesa Boogie Dual Rectifier",
+  "vendor": "ML Sound Labs",
+  "category": "amp",
+  "gear_model": "Mesa Boogie Dual Rectifier",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ML MEGA Rec Lead FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA Rec Drive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA Rec Clean FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA Rec Lead.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA Rec Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA Rec Clean.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "klon",
+  "label": "Klon Centaur (Clone)",
+  "vendor": "Klon",
+  "category": "drive",
+  "gear_model": "Centaur",
+  "modeled_by": "Keith B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Keith B Klone_plus_BB_highGain.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Keith B Klone_plus_BB_lowgain.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Keith B Klone_plus_BB_medGain.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Keith B klone_g6_t6_o5.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Keith B klone_maxG_t6_o5.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/klon"
+}

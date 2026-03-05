@@ -1,0 +1,49 @@
+{
+  "id": "ml-sound-labs-friedman-be-100",
+  "label": "ML Sound Labs — Friedman BE-100",
+  "vendor": "ML Sound Labs",
+  "category": "amp",
+  "gear_model": "Friedman BE-100",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ML FMAN BE Plexi.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FMAN HBE.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FMAN HBE Lead FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FMAN BE.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FMAN BE Plexi FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FMAN BE Drive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

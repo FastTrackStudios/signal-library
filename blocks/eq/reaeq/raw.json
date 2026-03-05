@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "plugin_name": "ReaEQ",
+  "vendor": "Cockos",
+  "plugin_type": "VST2",
+  "parameter_count": 19,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "Freq-Low Shelf",
+      "default_value": 0.1414380669593811,
+      "formatted": "100.0",
+      "is_toggle": false
+    },
+    {
+      "index": 1,
+      "name": "Gain-Low Shelf",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "BW-Low Shelf",
+      "default_value": 0.20000000298023224,
+      "formatted": "0.80",
+      "is_toggle": false
+    },
+    {
+      "index": 3,
+      "name": "Freq-Band 2",
+      "default_value": 0.2895059883594513,
+      "formatted": "300.0",
+      "is_toggle": false
+    },
+    {
+      "index": 4,
+      "name": "Gain-Band 2",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "BW-Band 2",
+      "default_value": 0.5,
+      "formatted": "2.00",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "Freq-Band 3",
+      "default_value": 0.47604861855506897,
+      "formatted": "1000.0",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "Gain-Band 3",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 8,
+      "name": "BW-Band 3",
+      "default_value": 0.5,
+      "formatted": "2.00",
+      "is_toggle": false
+    },
+    {
+      "index": 9,
+      "name": "Freq-High Shelf 4",
+      "default_value": 0.7393508553504944,
+      "formatted": "5000.0",
+      "is_toggle": false
+    },
+    {
+      "index": 10,
+      "name": "Gain-High Shelf 4",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 11,
+      "name": "BW-High Shelf 4",
+      "default_value": 0.20000000298023224,
+      "formatted": "0.80",
+      "is_toggle": false
+    },
+    {
+      "index": 12,
+      "name": "Freq-High Pass 5",
+      "default_value": 0.1414380669593811,
+      "formatted": "100.0",
+      "is_toggle": false
+    },
+    {
+      "index": 13,
+      "name": "Gain-High Pass 5",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 14,
+      "name": "BW-High Pass 5",
+      "default_value": 0.5,
+      "formatted": "2.00",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "Global Gain",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 16,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 17,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 18,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

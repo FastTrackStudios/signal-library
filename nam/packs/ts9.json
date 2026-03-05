@@ -1,0 +1,25 @@
+{
+  "id": "ts9",
+  "label": "Ibanez TS9 Tube Screamer",
+  "vendor": "Ibanez",
+  "category": "drive",
+  "gear_model": "TS9",
+  "modeled_by": "Tim R",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tim R TS9 Driven.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/ts9"
+}

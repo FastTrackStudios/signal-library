@@ -1,0 +1,25 @@
+{
+  "id": "plumes",
+  "label": "EQD Plumes (Clone)",
+  "vendor": "EQD",
+  "category": "drive",
+  "gear_model": "Plumes",
+  "modeled_by": "Keith B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Keith B PlumesClone_maxG_t5_switch1.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Keith B PlumesClone_maxG_t5_switch3.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/plumes"
+}

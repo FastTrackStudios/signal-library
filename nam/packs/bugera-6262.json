@@ -1,0 +1,43 @@
+{
+  "id": "bugera-6262",
+  "label": "Bugera 6262",
+  "vendor": "Bugera",
+  "category": "amp",
+  "gear_model": "6262",
+  "modeled_by": "Phillipe P",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Phillipe P Bugera6262-Crunch-NoDrive-ESR0,002.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bugera6262-Lead-M77-ESR0,020.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bugera6262-Lead-M77-Gain1,5-ESR0,017.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bugera6262-Lead-NoDrive-Cab-ESR0,009.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Bugera6262-Lead-NoDrive-ESR0,009.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/bugera-6262"
+}

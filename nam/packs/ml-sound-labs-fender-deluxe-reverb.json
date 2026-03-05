@@ -1,0 +1,49 @@
+{
+  "id": "ml-sound-labs-fender-deluxe-reverb",
+  "label": "ML Sound Labs — Fender Deluxe Reverb",
+  "vendor": "ML Sound Labs",
+  "category": "amp",
+  "gear_model": "Fender Deluxe Reverb",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ML FNDR Deluxe Clean.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FNDR Deluxe Clean FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FNDR Deluxe Overdrive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FNDR Deluxe Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FNDR Deluxe Overdrive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML FNDR Deluxe Drive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

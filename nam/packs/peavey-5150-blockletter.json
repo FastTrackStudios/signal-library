@@ -1,0 +1,25 @@
+{
+  "id": "peavey-5150-blockletter",
+  "label": "Peavey 5150 Block Letter",
+  "vendor": "Peavey",
+  "category": "amp",
+  "gear_model": "5150 Block Letter",
+  "modeled_by": "Helga B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Helga B 5150 BlockLetter - Boosted.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 5150 BlockLetter - NoBoost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/peavey-5150-blockletter"
+}

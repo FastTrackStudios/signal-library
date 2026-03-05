@@ -1,0 +1,49 @@
+{
+  "id": "peavey-6505-community",
+  "label": "Peavey 6505+ (Community)",
+  "vendor": "Peavey",
+  "category": "amp",
+  "gear_model": "6505+",
+  "modeled_by": "Helga B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Helga B 6505+ Green ch - MXR Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6505+ Green ch - NoBoost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6505+ Red Ch - NoBoost rock.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6505+ Red ch - MXR Drive V2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6505+ Red ch - MXR Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6505+ Red ch - NoBoost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/peavey-6505-community"
+}

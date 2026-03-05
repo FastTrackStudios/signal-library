@@ -1,0 +1,79 @@
+{
+  "id": "splawn-pro-mod",
+  "label": "Splawn Pro Mod",
+  "vendor": "Splawn",
+  "category": "amp",
+  "gear_model": "Pro Mod",
+  "modeled_by": "Tim R",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tim R Splawn Pro Mod 1st Gear - G12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod 2nd Gear - G12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod 3rd Gear - G12.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G10 Gear 1 OD2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G10 Gear 1.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G10 Gear 2 OD2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G10 Gear 2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G10 Gear 3 OD2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G10 Gear 3.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G12 Gear 2 OD2 TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Splawn Pro Mod G12 Gear 3 OD2 TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/splawn-pro-mod"
+}

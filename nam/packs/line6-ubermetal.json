@@ -1,0 +1,19 @@
+{
+  "id": "line6-ubermetal",
+  "label": "Line 6 Uber Metal",
+  "vendor": "Line 6",
+  "category": "drive",
+  "gear_model": "Uber Metal",
+  "modeled_by": "Jason Z",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Jason Z Line 6 UBERMETAL INSANE droom metal at its best.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/line6-ubermetal"
+}

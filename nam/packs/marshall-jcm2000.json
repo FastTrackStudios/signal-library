@@ -1,0 +1,55 @@
+{
+  "id": "marshall-jcm2000",
+  "label": "Marshall JCM2000",
+  "vendor": "Marshall",
+  "category": "amp",
+  "gear_model": "JCM2000",
+  "modeled_by": "Tim R",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tim R JCM2000 Clean.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R JCM2000 Crunch 805'd.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R JCM2000 Crunch.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R JCM2000 L2 G6 805'd.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R JCM2000 L2 G6.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R JCM2000 L2 G8 805'd.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R JCM2000 L2 G8.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/marshall-jcm2000"
+}

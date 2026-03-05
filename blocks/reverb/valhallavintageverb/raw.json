@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "plugin_name": "ValhallaVintageVerb",
+  "vendor": "Valhalla DSP, LLC",
+  "plugin_type": "VST3",
+  "parameter_count": 21,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "Mix",
+      "default_value": 1.0,
+      "formatted": "100.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 1,
+      "name": "PreDelay",
+      "default_value": 0.25,
+      "formatted": "20.00 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "Decay",
+      "default_value": 0.42048031091690063,
+      "formatted": "4.00 s",
+      "is_toggle": false
+    },
+    {
+      "index": 3,
+      "name": "Size",
+      "default_value": 1.0,
+      "formatted": "100.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 4,
+      "name": "Attack",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "BassMult",
+      "default_value": 0.6230387687683105,
+      "formatted": "1.50 X",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "BassXover",
+      "default_value": 0.3810649514198303,
+      "formatted": "300 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "HighShelf",
+      "default_value": 0.0,
+      "formatted": "-24.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 8,
+      "name": "HighFreq",
+      "default_value": 0.5,
+      "formatted": "6000 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 9,
+      "name": "EarlyDiffusion",
+      "default_value": 1.0,
+      "formatted": "100.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 10,
+      "name": "LateDiffusion",
+      "default_value": 1.0,
+      "formatted": "100.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 11,
+      "name": "ModRate",
+      "default_value": 0.2454545646905899,
+      "formatted": "2.53 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 12,
+      "name": "ModDepth",
+      "default_value": 0.3799999952316284,
+      "formatted": "38.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 13,
+      "name": "HighCut",
+      "default_value": 0.5905388593673706,
+      "formatted": "8000 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 14,
+      "name": "LowCut",
+      "default_value": 0.0,
+      "formatted": "10 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "ColorMode",
+      "default_value": 0.3333333432674408,
+      "formatted": "seventies",
+      "is_toggle": false
+    },
+    {
+      "index": 16,
+      "name": "ReverbMode",
+      "default_value": 0.0416666679084301,
+      "formatted": "Concert Hall",
+      "is_toggle": false
+    },
+    {
+      "index": 17,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 18,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 19,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 20,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

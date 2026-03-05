@@ -1,0 +1,37 @@
+{
+  "id": "laney-gh100s",
+  "label": "Laney GH100S",
+  "vendor": "Laney",
+  "category": "amp",
+  "gear_model": "GH100S",
+  "modeled_by": "Phillipe P",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Phillipe P LaneyGH100S-Hi-HiNoon-ESR0,024.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P LaneyGH100S-Hi-MidGain-ESR0,003.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P LaneyGH100S-Lo-AfterBreakUp-ESR0,001.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P LaneyGH100S-Lo-CrunchGain-ESR0,024.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/laney-gh100s"
+}

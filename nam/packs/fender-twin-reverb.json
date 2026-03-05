@@ -1,0 +1,25 @@
+{
+  "id": "fender-twin-reverb",
+  "label": "Fender Twin Reverb",
+  "vendor": "Fender",
+  "category": "amp",
+  "gear_model": "Twin Reverb",
+  "modeled_by": "Tim R",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Tim R Fender TwinVerb Norm Bright.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Tim R Fender TwinVerb Vibrato Bright.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/fender-twin-reverb"
+}

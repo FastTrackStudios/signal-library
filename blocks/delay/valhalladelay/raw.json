@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "plugin_name": "ValhallaDelay",
+  "vendor": "Valhalla DSP, LLC",
+  "plugin_type": "VST3",
+  "parameter_count": 42,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "Mix",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 1,
+      "name": "DelayStyle",
+      "default_value": 0.0,
+      "formatted": "Single",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "DelayLSync",
+      "default_value": 0.25,
+      "formatted": "Msec",
+      "is_toggle": false
+    },
+    {
+      "index": 3,
+      "name": "DelayLNote",
+      "default_value": 0.20000000298023224,
+      "formatted": "1/16",
+      "is_toggle": false
+    },
+    {
+      "index": 4,
+      "name": "DelayL_Ms",
+      "default_value": 0.30000001192092896,
+      "formatted": "300.0 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "DelayRSync",
+      "default_value": 0.25,
+      "formatted": "Msec",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "DelayRNote",
+      "default_value": 0.20000000298023224,
+      "formatted": "1/16",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "DelayR_Ms",
+      "default_value": 0.30000001192092896,
+      "formatted": "300.0 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 8,
+      "name": "DelaySpread",
+      "default_value": 0.5,
+      "formatted": "0.0 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 9,
+      "name": "DelaySpacing",
+      "default_value": 0.5,
+      "formatted": "0.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 10,
+      "name": "DelayRatio",
+      "default_value": 0.6141414046287537,
+      "formatted": "61.8 %",
+      "is_toggle": false
+    },
+    {
+      "index": 11,
+      "name": "RepeatSwell",
+      "default_value": 1.0,
+      "formatted": "Swell",
+      "is_toggle": false
+    },
+    {
+      "index": 12,
+      "name": "TapA",
+      "default_value": 1.0,
+      "formatted": "On",
+      "is_toggle": false
+    },
+    {
+      "index": 13,
+      "name": "TapB",
+      "default_value": 1.0,
+      "formatted": "On",
+      "is_toggle": false
+    },
+    {
+      "index": 14,
+      "name": "TapC",
+      "default_value": 1.0,
+      "formatted": "On",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "TapD",
+      "default_value": 1.0,
+      "formatted": "On",
+      "is_toggle": false
+    },
+    {
+      "index": 16,
+      "name": "Feedback",
+      "default_value": 0.3499999940395355,
+      "formatted": "70.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 17,
+      "name": "Width",
+      "default_value": 1.0,
+      "formatted": "100.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 18,
+      "name": "DriveIn",
+      "default_value": 0.0,
+      "formatted": "0.0 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 19,
+      "name": "Age",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 20,
+      "name": "Diffusion",
+      "default_value": 0.0,
+      "formatted": "OFF",
+      "is_toggle": false
+    },
+    {
+      "index": 21,
+      "name": "DiffSize",
+      "default_value": 1.0,
+      "formatted": "100.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 22,
+      "name": "LowCut",
+      "default_value": 0.0,
+      "formatted": "10 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 23,
+      "name": "HighCut",
+      "default_value": 1.0,
+      "formatted": "20000 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 24,
+      "name": "ModRate",
+      "default_value": 0.27383410930633545,
+      "formatted": "0.50 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 25,
+      "name": "ModDepth",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 26,
+      "name": "Wow",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 27,
+      "name": "Flutter",
+      "default_value": 0.5,
+      "formatted": "50.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 28,
+      "name": "FreqShift",
+      "default_value": 0.5,
+      "formatted": "0.0 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 29,
+      "name": "FreqDetune",
+      "default_value": 0.5799999833106995,
+      "formatted": "0.10 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 30,
+      "name": "PitchShift",
+      "default_value": 0.5,
+      "formatted": "0.00 semi",
+      "is_toggle": false
+    },
+    {
+      "index": 31,
+      "name": "PitchDetune",
+      "default_value": 0.5,
+      "formatted": "0.0 cents",
+      "is_toggle": false
+    },
+    {
+      "index": 32,
+      "name": "Mode",
+      "default_value": 0.0416666679084301,
+      "formatted": "Tape",
+      "is_toggle": false
+    },
+    {
+      "index": 33,
+      "name": "Era",
+      "default_value": 0.3333333432674408,
+      "formatted": "Past",
+      "is_toggle": false
+    },
+    {
+      "index": 34,
+      "name": "Ducking",
+      "default_value": 0.0,
+      "formatted": "0.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 35,
+      "name": "Reserved2",
+      "default_value": 0.0,
+      "formatted": "0.0 %",
+      "is_toggle": false
+    },
+    {
+      "index": 36,
+      "name": "Reserved3",
+      "default_value": 0.0,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 37,
+      "name": "Reserved4",
+      "default_value": 0.0,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 38,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 39,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 40,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 41,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

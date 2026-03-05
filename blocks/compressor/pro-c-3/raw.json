@@ -1,0 +1,1954 @@
+{
+  "schema_version": 1,
+  "plugin_name": "Pro-C 3",
+  "vendor": "FabFilter",
+  "plugin_type": "CLAP",
+  "parameter_count": 103,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "Style",
+      "default_value": 0.6923076923076923,
+      "formatted": "Opto",
+      "is_toggle": false,
+      "step_count": 14,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Clean"
+        },
+        {
+          "value": 0.07692307692307693,
+          "label": "Versatile"
+        },
+        {
+          "value": 0.15384615384615385,
+          "label": "Smooth"
+        },
+        {
+          "value": 0.23076923076923078,
+          "label": "Punch"
+        },
+        {
+          "value": 0.3076923076923077,
+          "label": "Upward"
+        },
+        {
+          "value": 0.38461538461538464,
+          "label": "TTM"
+        },
+        {
+          "value": 0.46153846153846156,
+          "label": "Op-El"
+        },
+        {
+          "value": 0.5384615384615384,
+          "label": "Vari-Mu"
+        },
+        {
+          "value": 0.6153846153846154,
+          "label": "Classic"
+        },
+        {
+          "value": 0.6923076923076923,
+          "label": "Opto"
+        },
+        {
+          "value": 0.7692307692307693,
+          "label": "Vocal"
+        },
+        {
+          "value": 0.8461538461538461,
+          "label": "Mastering"
+        },
+        {
+          "value": 0.9230769230769231,
+          "label": "Bus"
+        },
+        {
+          "value": 1.0,
+          "label": "Pumping"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Threshold",
+      "default_value": 0.568055534362793,
+      "formatted": "-25.92 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "Auto Threshold",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 3,
+      "name": "Lock Auto Threshold",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 4,
+      "name": "Ratio",
+      "default_value": 0.4782777726650238,
+      "formatted": "2.59:1",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "Knee",
+      "default_value": 0.10202699237399632,
+      "formatted": "+7.35 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "Range",
+      "default_value": 1.0,
+      "formatted": "+60.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "Attack",
+      "default_value": 0.1422777771949768,
+      "formatted": "0.725 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 8,
+      "name": "Release",
+      "default_value": 0.27794313430786133,
+      "formatted": "100.0 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 9,
+      "name": "Auto Release",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 10,
+      "name": "Lookahead",
+      "default_value": 0.0,
+      "formatted": "0.000 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 11,
+      "name": "Hold",
+      "default_value": 0.0,
+      "formatted": "0.000 ms",
+      "is_toggle": false
+    },
+    {
+      "index": 12,
+      "name": "Character",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": false,
+      "step_count": 4,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Off"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Tube"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Diode"
+        },
+        {
+          "value": 1.0,
+          "label": "Bright"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "name": "Character Routing",
+      "default_value": 1.0,
+      "formatted": "Post Compression",
+      "is_toggle": true
+    },
+    {
+      "index": 14,
+      "name": "Character Drive",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "Wet Gain",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 16,
+      "name": "Wet Pan",
+      "default_value": 0.5,
+      "formatted": "Mid: 0 dB / Side: 0 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 17,
+      "name": "Dry Gain",
+      "default_value": 0.0,
+      "formatted": "-INF dB",
+      "is_toggle": false
+    },
+    {
+      "index": 18,
+      "name": "Dry Pan",
+      "default_value": 0.5,
+      "formatted": "Mid: 0 dB / Side: 0 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 19,
+      "name": "Auto Gain",
+      "default_value": 1.0,
+      "formatted": "On",
+      "is_toggle": true
+    },
+    {
+      "index": 20,
+      "name": "Show Side Chain",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 21,
+      "name": "Side Chain Input",
+      "default_value": 0.0,
+      "formatted": "Internal",
+      "is_toggle": false,
+      "step_count": 4,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Internal"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "External"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Host Sync"
+        },
+        {
+          "value": 1.0,
+          "label": "MIDI"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "name": "Side Chain Level",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 23,
+      "name": "Host Trigger Sync",
+      "default_value": 0.5,
+      "formatted": "1/4 Note",
+      "is_toggle": false,
+      "step_count": 5,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Whole Note"
+        },
+        {
+          "value": 0.25,
+          "label": "1/2 Note"
+        },
+        {
+          "value": 0.5,
+          "label": "1/4 Note"
+        },
+        {
+          "value": 0.75,
+          "label": "1/8 Note"
+        },
+        {
+          "value": 1.0,
+          "label": "1/16 Note"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "name": "Host Trigger Offset",
+      "default_value": 0.5,
+      "formatted": "100%",
+      "is_toggle": false
+    },
+    {
+      "index": 25,
+      "name": "Host Trigger Length",
+      "default_value": 0.10000000149011612,
+      "formatted": "10.0%",
+      "is_toggle": false
+    },
+    {
+      "index": 26,
+      "name": "Stereo Link",
+      "default_value": 0.402138888835907,
+      "formatted": "80%",
+      "is_toggle": false
+    },
+    {
+      "index": 27,
+      "name": "Stereo Link Mode",
+      "default_value": 0.0,
+      "formatted": "Mid",
+      "is_toggle": false,
+      "step_count": 4,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Mid"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Side"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "M -> S"
+        },
+        {
+          "value": 1.0,
+          "label": "S -> M"
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "name": "Stereo Link Center",
+      "default_value": 0.0,
+      "formatted": "Excluded",
+      "is_toggle": true
+    },
+    {
+      "index": 29,
+      "name": "Stereo Link Surrounds",
+      "default_value": 1.0,
+      "formatted": "Included",
+      "is_toggle": true
+    },
+    {
+      "index": 30,
+      "name": "Stereo Link Tops",
+      "default_value": 1.0,
+      "formatted": "Included",
+      "is_toggle": true
+    },
+    {
+      "index": 31,
+      "name": "Stereo Link LFE",
+      "default_value": 0.0,
+      "formatted": "Excluded",
+      "is_toggle": true
+    },
+    {
+      "index": 32,
+      "name": "Side Chain EQ Band 1 Used",
+      "default_value": 1.0,
+      "formatted": "Used",
+      "is_toggle": true
+    },
+    {
+      "index": 33,
+      "name": "Side Chain EQ Band 1 Enabled",
+      "default_value": 1.0,
+      "formatted": "Enabled",
+      "is_toggle": true
+    },
+    {
+      "index": 34,
+      "name": "Side Chain EQ Band 1 Frequency",
+      "default_value": 0.26729554192242544,
+      "formatted": "85.000 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 35,
+      "name": "Side Chain EQ Band 1 Gain",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 36,
+      "name": "Side Chain EQ Band 1 Q",
+      "default_value": 0.5,
+      "formatted": "1.000",
+      "is_toggle": false
+    },
+    {
+      "index": 37,
+      "name": "Side Chain EQ Band 1 Shape",
+      "default_value": 0.2222222222222222,
+      "formatted": "Low Cut",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Bell"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "Low Shelf"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "Low Cut"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "High Shelf"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "High Cut"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "Notch"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Band Pass"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "Tilt Shelf"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "Flat Tilt"
+        },
+        {
+          "value": 1.0,
+          "label": "All Pass"
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "name": "Side Chain EQ Band 1 Slope",
+      "default_value": 0.1111111111111111,
+      "formatted": "12 dB/oct",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "6 dB/oct"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "12 dB/oct"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "18 dB/oct"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "24 dB/oct"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "30 dB/oct"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "36 dB/oct"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "48 dB/oct"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "72 dB/oct"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "96 dB/oct"
+        },
+        {
+          "value": 1.0,
+          "label": "Brickwall"
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "name": "Side Chain EQ Band 1 Stereo Placement",
+      "default_value": 0.0,
+      "formatted": "Stereo",
+      "is_toggle": false,
+      "step_count": 3,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Stereo"
+        },
+        {
+          "value": 0.5,
+          "label": "Mid"
+        },
+        {
+          "value": 1.0,
+          "label": "Side"
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "name": "Side Chain EQ Band 1 Speakers",
+      "default_value": 0.06666666666666667,
+      "formatted": "All (excl. LFE)",
+      "is_toggle": false,
+      "step_count": 16,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "All Speakers"
+        },
+        {
+          "value": 0.06666666666666667,
+          "label": "All (excl. LFE)"
+        },
+        {
+          "value": 0.13333333333333333,
+          "label": "All Top Speakers"
+        },
+        {
+          "value": 0.2,
+          "label": "L/C/R (Front + Center)"
+        },
+        {
+          "value": 0.26666666666666666,
+          "label": "LFE"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Center"
+        },
+        {
+          "value": 0.4,
+          "label": "L/R (Front)"
+        },
+        {
+          "value": 0.4666666666666667,
+          "label": "Lc/Rc (Front Center)"
+        },
+        {
+          "value": 0.5333333333333333,
+          "label": "Lw/Rw (Wide)"
+        },
+        {
+          "value": 0.6,
+          "label": "Lss/Rss (Surround Side)"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Ls/Rs (Surround)"
+        },
+        {
+          "value": 0.7333333333333333,
+          "label": "Lsr/Rsr (Surround Rear)"
+        },
+        {
+          "value": 0.8,
+          "label": "Cs or S (Center Surround)"
+        },
+        {
+          "value": 0.8666666666666667,
+          "label": "Ltf/Rtf (Top Surround Front)"
+        },
+        {
+          "value": 0.9333333333333333,
+          "label": "Lts/Rts (Top Surround)"
+        },
+        {
+          "value": 1.0,
+          "label": "Ltr/Rtr (Top Surround Rear)"
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "name": "Side Chain EQ Band 2 Used",
+      "default_value": 0.0,
+      "formatted": "Unused",
+      "is_toggle": true
+    },
+    {
+      "index": 42,
+      "name": "Side Chain EQ Band 2 Enabled",
+      "default_value": 1.0,
+      "formatted": "Enabled",
+      "is_toggle": true
+    },
+    {
+      "index": 43,
+      "name": "Side Chain EQ Band 2 Frequency",
+      "default_value": 0.48351533850981293,
+      "formatted": "480.00 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 44,
+      "name": "Side Chain EQ Band 2 Gain",
+      "default_value": 0.48333333333333334,
+      "formatted": "-1.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 45,
+      "name": "Side Chain EQ Band 2 Q",
+      "default_value": 0.317414253950119,
+      "formatted": "0.260",
+      "is_toggle": false
+    },
+    {
+      "index": 46,
+      "name": "Side Chain EQ Band 2 Shape",
+      "default_value": 0.0,
+      "formatted": "Bell",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Bell"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "Low Shelf"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "Low Cut"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "High Shelf"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "High Cut"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "Notch"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Band Pass"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "Tilt Shelf"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "Flat Tilt"
+        },
+        {
+          "value": 1.0,
+          "label": "All Pass"
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "name": "Side Chain EQ Band 2 Slope",
+      "default_value": 0.1111111111111111,
+      "formatted": "12 dB/oct",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "6 dB/oct"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "12 dB/oct"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "18 dB/oct"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "24 dB/oct"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "30 dB/oct"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "36 dB/oct"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "48 dB/oct"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "72 dB/oct"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "96 dB/oct"
+        },
+        {
+          "value": 1.0,
+          "label": "Brickwall"
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "name": "Side Chain EQ Band 2 Stereo Placement",
+      "default_value": 0.0,
+      "formatted": "Stereo",
+      "is_toggle": false,
+      "step_count": 3,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Stereo"
+        },
+        {
+          "value": 0.5,
+          "label": "Mid"
+        },
+        {
+          "value": 1.0,
+          "label": "Side"
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "name": "Side Chain EQ Band 2 Speakers",
+      "default_value": 0.06666666666666667,
+      "formatted": "All (excl. LFE)",
+      "is_toggle": false,
+      "step_count": 16,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "All Speakers"
+        },
+        {
+          "value": 0.06666666666666667,
+          "label": "All (excl. LFE)"
+        },
+        {
+          "value": 0.13333333333333333,
+          "label": "All Top Speakers"
+        },
+        {
+          "value": 0.2,
+          "label": "L/C/R (Front + Center)"
+        },
+        {
+          "value": 0.26666666666666666,
+          "label": "LFE"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Center"
+        },
+        {
+          "value": 0.4,
+          "label": "L/R (Front)"
+        },
+        {
+          "value": 0.4666666666666667,
+          "label": "Lc/Rc (Front Center)"
+        },
+        {
+          "value": 0.5333333333333333,
+          "label": "Lw/Rw (Wide)"
+        },
+        {
+          "value": 0.6,
+          "label": "Lss/Rss (Surround Side)"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Ls/Rs (Surround)"
+        },
+        {
+          "value": 0.7333333333333333,
+          "label": "Lsr/Rsr (Surround Rear)"
+        },
+        {
+          "value": 0.8,
+          "label": "Cs or S (Center Surround)"
+        },
+        {
+          "value": 0.8666666666666667,
+          "label": "Ltf/Rtf (Top Surround Front)"
+        },
+        {
+          "value": 0.9333333333333333,
+          "label": "Lts/Rts (Top Surround)"
+        },
+        {
+          "value": 1.0,
+          "label": "Ltr/Rtr (Top Surround Rear)"
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "name": "Side Chain EQ Band 3 Used",
+      "default_value": 0.0,
+      "formatted": "Unused",
+      "is_toggle": true
+    },
+    {
+      "index": 51,
+      "name": "Side Chain EQ Band 3 Enabled",
+      "default_value": 1.0,
+      "formatted": "Enabled",
+      "is_toggle": true
+    },
+    {
+      "index": 52,
+      "name": "Side Chain EQ Band 3 Frequency",
+      "default_value": 0.4886139878887055,
+      "formatted": "500.00 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 53,
+      "name": "Side Chain EQ Band 3 Gain",
+      "default_value": 0.5000000635782877,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 54,
+      "name": "Side Chain EQ Band 3 Q",
+      "default_value": 0.40604907274246216,
+      "formatted": "0.500",
+      "is_toggle": false
+    },
+    {
+      "index": 55,
+      "name": "Side Chain EQ Band 3 Shape",
+      "default_value": 0.0,
+      "formatted": "Bell",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Bell"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "Low Shelf"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "Low Cut"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "High Shelf"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "High Cut"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "Notch"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Band Pass"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "Tilt Shelf"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "Flat Tilt"
+        },
+        {
+          "value": 1.0,
+          "label": "All Pass"
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "name": "Side Chain EQ Band 3 Slope",
+      "default_value": 0.1111111111111111,
+      "formatted": "12 dB/oct",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "6 dB/oct"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "12 dB/oct"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "18 dB/oct"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "24 dB/oct"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "30 dB/oct"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "36 dB/oct"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "48 dB/oct"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "72 dB/oct"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "96 dB/oct"
+        },
+        {
+          "value": 1.0,
+          "label": "Brickwall"
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "name": "Side Chain EQ Band 3 Stereo Placement",
+      "default_value": 0.0,
+      "formatted": "Stereo",
+      "is_toggle": false,
+      "step_count": 3,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Stereo"
+        },
+        {
+          "value": 0.5,
+          "label": "Mid"
+        },
+        {
+          "value": 1.0,
+          "label": "Side"
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "name": "Side Chain EQ Band 3 Speakers",
+      "default_value": 0.06666666666666667,
+      "formatted": "All (excl. LFE)",
+      "is_toggle": false,
+      "step_count": 16,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "All Speakers"
+        },
+        {
+          "value": 0.06666666666666667,
+          "label": "All (excl. LFE)"
+        },
+        {
+          "value": 0.13333333333333333,
+          "label": "All Top Speakers"
+        },
+        {
+          "value": 0.2,
+          "label": "L/C/R (Front + Center)"
+        },
+        {
+          "value": 0.26666666666666666,
+          "label": "LFE"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Center"
+        },
+        {
+          "value": 0.4,
+          "label": "L/R (Front)"
+        },
+        {
+          "value": 0.4666666666666667,
+          "label": "Lc/Rc (Front Center)"
+        },
+        {
+          "value": 0.5333333333333333,
+          "label": "Lw/Rw (Wide)"
+        },
+        {
+          "value": 0.6,
+          "label": "Lss/Rss (Surround Side)"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Ls/Rs (Surround)"
+        },
+        {
+          "value": 0.7333333333333333,
+          "label": "Lsr/Rsr (Surround Rear)"
+        },
+        {
+          "value": 0.8,
+          "label": "Cs or S (Center Surround)"
+        },
+        {
+          "value": 0.8666666666666667,
+          "label": "Ltf/Rtf (Top Surround Front)"
+        },
+        {
+          "value": 0.9333333333333333,
+          "label": "Lts/Rts (Top Surround)"
+        },
+        {
+          "value": 1.0,
+          "label": "Ltr/Rtr (Top Surround Rear)"
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "name": "Side Chain EQ Band 4 Used",
+      "default_value": 0.0,
+      "formatted": "Unused",
+      "is_toggle": true
+    },
+    {
+      "index": 60,
+      "name": "Side Chain EQ Band 4 Enabled",
+      "default_value": 1.0,
+      "formatted": "Enabled",
+      "is_toggle": true
+    },
+    {
+      "index": 61,
+      "name": "Side Chain EQ Band 4 Frequency",
+      "default_value": 0.5751884830003051,
+      "formatted": "1000.0 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 62,
+      "name": "Side Chain EQ Band 4 Gain",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 63,
+      "name": "Side Chain EQ Band 4 Q",
+      "default_value": 0.5,
+      "formatted": "1.000",
+      "is_toggle": false
+    },
+    {
+      "index": 64,
+      "name": "Side Chain EQ Band 4 Shape",
+      "default_value": 0.0,
+      "formatted": "Bell",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Bell"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "Low Shelf"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "Low Cut"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "High Shelf"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "High Cut"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "Notch"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Band Pass"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "Tilt Shelf"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "Flat Tilt"
+        },
+        {
+          "value": 1.0,
+          "label": "All Pass"
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "name": "Side Chain EQ Band 4 Slope",
+      "default_value": 0.1111111111111111,
+      "formatted": "12 dB/oct",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "6 dB/oct"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "12 dB/oct"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "18 dB/oct"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "24 dB/oct"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "30 dB/oct"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "36 dB/oct"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "48 dB/oct"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "72 dB/oct"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "96 dB/oct"
+        },
+        {
+          "value": 1.0,
+          "label": "Brickwall"
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "name": "Side Chain EQ Band 4 Stereo Placement",
+      "default_value": 0.0,
+      "formatted": "Stereo",
+      "is_toggle": false,
+      "step_count": 3,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Stereo"
+        },
+        {
+          "value": 0.5,
+          "label": "Mid"
+        },
+        {
+          "value": 1.0,
+          "label": "Side"
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "name": "Side Chain EQ Band 4 Speakers",
+      "default_value": 0.06666666666666667,
+      "formatted": "All (excl. LFE)",
+      "is_toggle": false,
+      "step_count": 16,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "All Speakers"
+        },
+        {
+          "value": 0.06666666666666667,
+          "label": "All (excl. LFE)"
+        },
+        {
+          "value": 0.13333333333333333,
+          "label": "All Top Speakers"
+        },
+        {
+          "value": 0.2,
+          "label": "L/C/R (Front + Center)"
+        },
+        {
+          "value": 0.26666666666666666,
+          "label": "LFE"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Center"
+        },
+        {
+          "value": 0.4,
+          "label": "L/R (Front)"
+        },
+        {
+          "value": 0.4666666666666667,
+          "label": "Lc/Rc (Front Center)"
+        },
+        {
+          "value": 0.5333333333333333,
+          "label": "Lw/Rw (Wide)"
+        },
+        {
+          "value": 0.6,
+          "label": "Lss/Rss (Surround Side)"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Ls/Rs (Surround)"
+        },
+        {
+          "value": 0.7333333333333333,
+          "label": "Lsr/Rsr (Surround Rear)"
+        },
+        {
+          "value": 0.8,
+          "label": "Cs or S (Center Surround)"
+        },
+        {
+          "value": 0.8666666666666667,
+          "label": "Ltf/Rtf (Top Surround Front)"
+        },
+        {
+          "value": 0.9333333333333333,
+          "label": "Lts/Rts (Top Surround)"
+        },
+        {
+          "value": 1.0,
+          "label": "Ltr/Rtr (Top Surround Rear)"
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "name": "Side Chain EQ Band 5 Used",
+      "default_value": 0.0,
+      "formatted": "Unused",
+      "is_toggle": true
+    },
+    {
+      "index": 69,
+      "name": "Side Chain EQ Band 5 Enabled",
+      "default_value": 1.0,
+      "formatted": "Enabled",
+      "is_toggle": true
+    },
+    {
+      "index": 70,
+      "name": "Side Chain EQ Band 5 Frequency",
+      "default_value": 0.5751884830003051,
+      "formatted": "1000.0 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 71,
+      "name": "Side Chain EQ Band 5 Gain",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 72,
+      "name": "Side Chain EQ Band 5 Q",
+      "default_value": 0.5,
+      "formatted": "1.000",
+      "is_toggle": false
+    },
+    {
+      "index": 73,
+      "name": "Side Chain EQ Band 5 Shape",
+      "default_value": 0.0,
+      "formatted": "Bell",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Bell"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "Low Shelf"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "Low Cut"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "High Shelf"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "High Cut"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "Notch"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Band Pass"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "Tilt Shelf"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "Flat Tilt"
+        },
+        {
+          "value": 1.0,
+          "label": "All Pass"
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "name": "Side Chain EQ Band 5 Slope",
+      "default_value": 0.1111111111111111,
+      "formatted": "12 dB/oct",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "6 dB/oct"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "12 dB/oct"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "18 dB/oct"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "24 dB/oct"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "30 dB/oct"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "36 dB/oct"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "48 dB/oct"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "72 dB/oct"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "96 dB/oct"
+        },
+        {
+          "value": 1.0,
+          "label": "Brickwall"
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "name": "Side Chain EQ Band 5 Stereo Placement",
+      "default_value": 0.0,
+      "formatted": "Stereo",
+      "is_toggle": false,
+      "step_count": 3,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Stereo"
+        },
+        {
+          "value": 0.5,
+          "label": "Mid"
+        },
+        {
+          "value": 1.0,
+          "label": "Side"
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "name": "Side Chain EQ Band 5 Speakers",
+      "default_value": 0.06666666666666667,
+      "formatted": "All (excl. LFE)",
+      "is_toggle": false,
+      "step_count": 16,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "All Speakers"
+        },
+        {
+          "value": 0.06666666666666667,
+          "label": "All (excl. LFE)"
+        },
+        {
+          "value": 0.13333333333333333,
+          "label": "All Top Speakers"
+        },
+        {
+          "value": 0.2,
+          "label": "L/C/R (Front + Center)"
+        },
+        {
+          "value": 0.26666666666666666,
+          "label": "LFE"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Center"
+        },
+        {
+          "value": 0.4,
+          "label": "L/R (Front)"
+        },
+        {
+          "value": 0.4666666666666667,
+          "label": "Lc/Rc (Front Center)"
+        },
+        {
+          "value": 0.5333333333333333,
+          "label": "Lw/Rw (Wide)"
+        },
+        {
+          "value": 0.6,
+          "label": "Lss/Rss (Surround Side)"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Ls/Rs (Surround)"
+        },
+        {
+          "value": 0.7333333333333333,
+          "label": "Lsr/Rsr (Surround Rear)"
+        },
+        {
+          "value": 0.8,
+          "label": "Cs or S (Center Surround)"
+        },
+        {
+          "value": 0.8666666666666667,
+          "label": "Ltf/Rtf (Top Surround Front)"
+        },
+        {
+          "value": 0.9333333333333333,
+          "label": "Lts/Rts (Top Surround)"
+        },
+        {
+          "value": 1.0,
+          "label": "Ltr/Rtr (Top Surround Rear)"
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "name": "Side Chain EQ Band 6 Used",
+      "default_value": 0.0,
+      "formatted": "Unused",
+      "is_toggle": true
+    },
+    {
+      "index": 78,
+      "name": "Side Chain EQ Band 6 Enabled",
+      "default_value": 1.0,
+      "formatted": "Enabled",
+      "is_toggle": true
+    },
+    {
+      "index": 79,
+      "name": "Side Chain EQ Band 6 Frequency",
+      "default_value": 0.5751884830003051,
+      "formatted": "1000.0 Hz",
+      "is_toggle": false
+    },
+    {
+      "index": 80,
+      "name": "Side Chain EQ Band 6 Gain",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 81,
+      "name": "Side Chain EQ Band 6 Q",
+      "default_value": 0.5,
+      "formatted": "1.000",
+      "is_toggle": false
+    },
+    {
+      "index": 82,
+      "name": "Side Chain EQ Band 6 Shape",
+      "default_value": 0.0,
+      "formatted": "Bell",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Bell"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "Low Shelf"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "Low Cut"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "High Shelf"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "High Cut"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "Notch"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Band Pass"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "Tilt Shelf"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "Flat Tilt"
+        },
+        {
+          "value": 1.0,
+          "label": "All Pass"
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "name": "Side Chain EQ Band 6 Slope",
+      "default_value": 0.1111111111111111,
+      "formatted": "12 dB/oct",
+      "is_toggle": false,
+      "step_count": 10,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "6 dB/oct"
+        },
+        {
+          "value": 0.1111111111111111,
+          "label": "12 dB/oct"
+        },
+        {
+          "value": 0.2222222222222222,
+          "label": "18 dB/oct"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "24 dB/oct"
+        },
+        {
+          "value": 0.4444444444444444,
+          "label": "30 dB/oct"
+        },
+        {
+          "value": 0.5555555555555556,
+          "label": "36 dB/oct"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "48 dB/oct"
+        },
+        {
+          "value": 0.7777777777777778,
+          "label": "72 dB/oct"
+        },
+        {
+          "value": 0.8888888888888888,
+          "label": "96 dB/oct"
+        },
+        {
+          "value": 1.0,
+          "label": "Brickwall"
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "name": "Side Chain EQ Band 6 Stereo Placement",
+      "default_value": 0.0,
+      "formatted": "Stereo",
+      "is_toggle": false,
+      "step_count": 3,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Stereo"
+        },
+        {
+          "value": 0.5,
+          "label": "Mid"
+        },
+        {
+          "value": 1.0,
+          "label": "Side"
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "name": "Side Chain EQ Band 6 Speakers",
+      "default_value": 0.06666666666666667,
+      "formatted": "All (excl. LFE)",
+      "is_toggle": false,
+      "step_count": 16,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "All Speakers"
+        },
+        {
+          "value": 0.06666666666666667,
+          "label": "All (excl. LFE)"
+        },
+        {
+          "value": 0.13333333333333333,
+          "label": "All Top Speakers"
+        },
+        {
+          "value": 0.2,
+          "label": "L/C/R (Front + Center)"
+        },
+        {
+          "value": 0.26666666666666666,
+          "label": "LFE"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "Center"
+        },
+        {
+          "value": 0.4,
+          "label": "L/R (Front)"
+        },
+        {
+          "value": 0.4666666666666667,
+          "label": "Lc/Rc (Front Center)"
+        },
+        {
+          "value": 0.5333333333333333,
+          "label": "Lw/Rw (Wide)"
+        },
+        {
+          "value": 0.6,
+          "label": "Lss/Rss (Surround Side)"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "Ls/Rs (Surround)"
+        },
+        {
+          "value": 0.7333333333333333,
+          "label": "Lsr/Rsr (Surround Rear)"
+        },
+        {
+          "value": 0.8,
+          "label": "Cs or S (Center Surround)"
+        },
+        {
+          "value": 0.8666666666666667,
+          "label": "Ltf/Rtf (Top Surround Front)"
+        },
+        {
+          "value": 0.9333333333333333,
+          "label": "Lts/Rts (Top Surround)"
+        },
+        {
+          "value": 1.0,
+          "label": "Ltr/Rtr (Top Surround Rear)"
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "name": "Audition Side Chain",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 87,
+      "name": "Audition Triggering",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 88,
+      "name": "Mix",
+      "default_value": 0.5,
+      "formatted": "100.0%",
+      "is_toggle": false
+    },
+    {
+      "index": 89,
+      "name": "Input Level",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 90,
+      "name": "Input Pan",
+      "default_value": 0.5,
+      "formatted": "Left: 0 dB / Right: 0 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 91,
+      "name": "Output Level",
+      "default_value": 0.5,
+      "formatted": "0.00 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 92,
+      "name": "Output Pan",
+      "default_value": 0.5,
+      "formatted": "Left: 0 dB / Right: 0 dB",
+      "is_toggle": false
+    },
+    {
+      "index": 93,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "Not Bypassed",
+      "is_toggle": true
+    },
+    {
+      "index": 94,
+      "name": "Oversampling",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": false,
+      "step_count": 6,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Off"
+        },
+        {
+          "value": 0.2,
+          "label": "2x"
+        },
+        {
+          "value": 0.4,
+          "label": "4x"
+        },
+        {
+          "value": 0.6,
+          "label": "8x"
+        },
+        {
+          "value": 0.8,
+          "label": "16x"
+        },
+        {
+          "value": 1.0,
+          "label": "32x"
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "name": "Maximum Lookahead",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": false,
+      "step_count": 6,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Off"
+        },
+        {
+          "value": 0.2,
+          "label": "Maximum 1 ms"
+        },
+        {
+          "value": 0.4,
+          "label": "Maximum 2 ms"
+        },
+        {
+          "value": 0.6,
+          "label": "Maximum 5 ms"
+        },
+        {
+          "value": 0.8,
+          "label": "Maximum 10 ms"
+        },
+        {
+          "value": 1.0,
+          "label": "Maximum 20 ms"
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "name": "Midi State",
+      "default_value": 0.0,
+      "formatted": "Enabled",
+      "is_toggle": true
+    },
+    {
+      "index": 97,
+      "name": "Meter Scale",
+      "default_value": 0.75,
+      "formatted": "72 dB",
+      "is_toggle": false,
+      "step_count": 5,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "9 dB"
+        },
+        {
+          "value": 0.25,
+          "label": "18 dB"
+        },
+        {
+          "value": 0.5,
+          "label": "36 dB"
+        },
+        {
+          "value": 0.75,
+          "label": "72 dB"
+        },
+        {
+          "value": 1.0,
+          "label": "90 dB"
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "name": "Knee Display Enabled",
+      "default_value": 0.0,
+      "formatted": "Off",
+      "is_toggle": true
+    },
+    {
+      "index": 99,
+      "name": "Show Input Level Meter",
+      "default_value": 0.0,
+      "formatted": "Disabled",
+      "is_toggle": true
+    },
+    {
+      "index": 100,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 101,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 102,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

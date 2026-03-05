@@ -1,0 +1,31 @@
+{
+  "id": "boss-hm2",
+  "label": "Boss HM-2",
+  "vendor": "Boss",
+  "category": "drive",
+  "gear_model": "HM-2",
+  "modeled_by": "Jason Z",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Jason Z Boss HM2 v1 kinda bass heavy with medium distortion pure everything turned all the way up tone.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Jason Z Boss HM2BTFO heavy distortion meant to be standalone less bass more honk.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Jason Z Boss HM2EQ light distortion with dimed EQ knobs use before an amp.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/boss-hm2"
+}

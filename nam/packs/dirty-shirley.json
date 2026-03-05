@@ -1,0 +1,61 @@
+{
+  "id": "dirty-shirley",
+  "label": "Friedman Dirty Shirley Mini",
+  "vendor": "Friedman",
+  "category": "amp",
+  "gear_model": "Dirty Shirley Mini",
+  "modeled_by": "Sascha S",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Sascha S DirtyShirleyCrunch_G4_BuxBoostTight.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S DirtyShirleyMini_Clean_B1_M6_T7_MV10_G4.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S DirtyShirleyMini_crunch_B4_M5.5_T6_MV6_G4_GS_high.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S DirtyShirleyMini_crunch_G6.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S DirtyShirleyMini_crunch_G6_PreQ.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S DirtyShirleyMini_crunch_G8.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S DirtyShirleyMini_lowDrive_G6_GainStrucLow.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Sascha S DirtyShirleyMini_lowGain_MV10_G3.5_klonboost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/dirty-shirley"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "irworkshop-wooly",
+  "label": "IRWorkshop Wooly",
+  "vendor": "IRWorkshop",
+  "category": "ir",
+  "gear_model": "Wooly Synthetic Cab",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [
+    "warm",
+    "wooly"
+  ],
+  "files": {
+    "Wooly-Base-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Base-EQ2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Base-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Base-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Base.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey1-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey1-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey1-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey2-EQ1.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey2-Skew120.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey2-Skew80.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Wooly-Phasey2.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "ir/irworkshop-synthetic"
+}

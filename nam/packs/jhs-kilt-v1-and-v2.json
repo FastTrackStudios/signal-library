@@ -1,0 +1,37 @@
+{
+  "id": "jhs-kilt-v1-and-v2",
+  "label": "JHS - Kilt V1 and V2",
+  "vendor": "JHS",
+  "category": "drive",
+  "gear_model": "JHS - Kilt V1 and V2",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "JHS Kilt v2 OD Gain 10.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "JHS Kilt v2 OD gain 3.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "JHS Kilt v1 Fuzz gain 3.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "JHS Kilt v2 OD gain 5.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

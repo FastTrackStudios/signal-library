@@ -1,0 +1,49 @@
+{
+  "id": "ml-sound-labs-mesa-boogie-mark-iv",
+  "label": "ML Sound Labs — Mesa Boogie Mark IV",
+  "vendor": "ML Sound Labs",
+  "category": "amp",
+  "gear_model": "Mesa Boogie Mark IV",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ML MEGA MK4 Lead.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA MK4 Lead FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA MK4 Clean FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA MK4 Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA MK4 Drive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML MEGA MK4 Clean.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

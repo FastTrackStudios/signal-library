@@ -1,0 +1,37 @@
+{
+  "id": "ksr",
+  "label": "KSR Ceres / Vesta",
+  "vendor": "KSR",
+  "category": "amp",
+  "gear_model": "Ceres / Vesta",
+  "modeled_by": "Jason Z",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Jason Z KSR CERES - light blue channel - all noon EQ.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Jason Z KSR CERES - purple channel - all noon EQ.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Jason Z KSR VESTA - light blue channel - all noon EQ.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Jason Z KSR VESTA - purple channel - all noon EQ.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/ksr"
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "plugin_name": "NeuralAmpModeler",
+  "vendor": "Steven Atkinson",
+  "plugin_type": "VST3",
+  "parameter_count": 16,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "off",
+      "is_toggle": true
+    },
+    {
+      "index": 1,
+      "name": "Input",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "Threshold",
+      "default_value": 0.20000000298023224,
+      "formatted": "-80.0",
+      "is_toggle": false
+    },
+    {
+      "index": 3,
+      "name": "Bass",
+      "default_value": 0.5,
+      "formatted": "5.0",
+      "is_toggle": false
+    },
+    {
+      "index": 4,
+      "name": "Middle",
+      "default_value": 0.5,
+      "formatted": "5.0",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "Treble",
+      "default_value": 0.5,
+      "formatted": "5.0",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "Output",
+      "default_value": 0.5,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "NoiseGateActive",
+      "default_value": 1.0,
+      "formatted": "on",
+      "is_toggle": true
+    },
+    {
+      "index": 8,
+      "name": "ToneStack",
+      "default_value": 1.0,
+      "formatted": "on",
+      "is_toggle": true
+    },
+    {
+      "index": 9,
+      "name": "IRToggle",
+      "default_value": 1.0,
+      "formatted": "on",
+      "is_toggle": true
+    },
+    {
+      "index": 10,
+      "name": "CalibrateInput",
+      "default_value": 0.0,
+      "formatted": "off",
+      "is_toggle": true
+    },
+    {
+      "index": 11,
+      "name": "InputCalibrationLevel",
+      "default_value": 0.6000000238418579,
+      "formatted": "12.0",
+      "is_toggle": false
+    },
+    {
+      "index": 12,
+      "name": "OutputMode",
+      "default_value": 0.5,
+      "formatted": "Normalized",
+      "is_toggle": false,
+      "step_count": 2,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "Raw"
+        },
+        {
+          "value": 1.0,
+          "label": "Calibrated"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 14,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

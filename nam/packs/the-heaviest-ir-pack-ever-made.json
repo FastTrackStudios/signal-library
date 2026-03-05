@@ -1,0 +1,67 @@
+{
+  "id": "the-heaviest-ir-pack-ever-made",
+  "label": "The HEAVIEST IR Pack Ever Made!",
+  "vendor": "The",
+  "category": "ir",
+  "gear_model": "The HEAVIEST IR Pack Ever Made!",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "MESA RECTO V30.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Marshall 1960a V30 - Mesa Lonestar 2x12 EQ'd.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Mix G7.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "UK GB-Mesa Lonestar SM58.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "UK GB-Mesa Lonestar 4x12 SM58.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Marshall 1960a V30 - Mesa Lonestar 2x12 Raw.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Mesa Boogie Rectifier OS 4x12 V30 R121_57.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Mix 5.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Mix F.wav": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

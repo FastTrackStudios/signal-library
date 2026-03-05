@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "plugin_name": "ReaComp",
+  "vendor": "Cockos",
+  "plugin_type": "VST2",
+  "parameter_count": 24,
+  "parameters": [
+    {
+      "index": 0,
+      "name": "Threshold",
+      "default_value": 0.5,
+      "formatted": "+0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 1,
+      "name": "Ratio",
+      "default_value": 0.03030303120613098,
+      "formatted": "4.00",
+      "is_toggle": false
+    },
+    {
+      "index": 2,
+      "name": "Attack",
+      "default_value": 0.006000000052154064,
+      "formatted": "3.0",
+      "is_toggle": false
+    },
+    {
+      "index": 3,
+      "name": "Release",
+      "default_value": 0.019999999552965164,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 4,
+      "name": "Pre-comp",
+      "default_value": 0.0,
+      "formatted": "0.00",
+      "is_toggle": false
+    },
+    {
+      "index": 5,
+      "name": "resvd",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 6,
+      "name": "Lowpass",
+      "default_value": 1.0,
+      "formatted": "20000",
+      "is_toggle": false
+    },
+    {
+      "index": 7,
+      "name": "Hipass",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 8,
+      "name": "SignIn",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 9,
+      "name": "AudIn",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 10,
+      "name": "Dry",
+      "default_value": 1.5811387754638417e-8,
+      "formatted": "-inf",
+      "is_toggle": false
+    },
+    {
+      "index": 11,
+      "name": "Wet",
+      "default_value": 0.5,
+      "formatted": "+0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 12,
+      "name": "Filter Preview",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": true
+    },
+    {
+      "index": 13,
+      "name": "RMS size",
+      "default_value": 0.005000000074505806,
+      "formatted": "5.0",
+      "is_toggle": false
+    },
+    {
+      "index": 14,
+      "name": "Knee",
+      "default_value": 0.0,
+      "formatted": "0.0",
+      "is_toggle": false
+    },
+    {
+      "index": 15,
+      "name": "Auto Make Up Gain",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": true
+    },
+    {
+      "index": 16,
+      "name": "Auto Release",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": true
+    },
+    {
+      "index": 17,
+      "name": "Legacy Attack/Knee Options",
+      "default_value": 0.25,
+      "formatted": "0.25",
+      "is_toggle": false,
+      "step_count": 4,
+      "step_labels": [
+        {
+          "value": 0.0,
+          "label": "0.00"
+        },
+        {
+          "value": 0.3333333333333333,
+          "label": "0.33"
+        },
+        {
+          "value": 0.6666666666666666,
+          "label": "0.67"
+        },
+        {
+          "value": 1.0,
+          "label": "1.00"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "name": "Deprecated Broken Anti-Alias",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 19,
+      "name": "Multichannel Mode",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 20,
+      "name": "Metering Index",
+      "default_value": 0.0,
+      "formatted": "0",
+      "is_toggle": false
+    },
+    {
+      "index": 21,
+      "name": "Bypass",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    },
+    {
+      "index": 22,
+      "name": "Wet",
+      "default_value": 1.0,
+      "formatted": "100",
+      "is_toggle": false
+    },
+    {
+      "index": 23,
+      "name": "Delta",
+      "default_value": 0.0,
+      "formatted": "normal",
+      "is_toggle": false
+    }
+  ]
+}

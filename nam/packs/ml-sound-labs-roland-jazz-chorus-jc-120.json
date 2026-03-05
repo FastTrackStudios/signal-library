@@ -1,0 +1,49 @@
+{
+  "id": "ml-sound-labs-roland-jazz-chorus-jc-120",
+  "label": "ML Sound Labs — Roland Jazz Chorus JC-120",
+  "vendor": "ML Sound Labs",
+  "category": "amp",
+  "gear_model": "Roland Jazz Chorus JC-120",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "ML JAZZ 120 Clean.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML JAZZ 120 Overdrive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML JAZZ 120 Overdrive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML JAZZ 120 Clean FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML JAZZ 120 Drive FULL.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "ML JAZZ 120 Drive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

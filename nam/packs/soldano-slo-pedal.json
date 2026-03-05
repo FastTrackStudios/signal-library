@@ -1,0 +1,19 @@
+{
+  "id": "soldano-slo-pedal",
+  "label": "Soldano Super Lead Overdrive Pedal",
+  "vendor": "Soldano",
+  "category": "drive",
+  "gear_model": "SLO Pedal",
+  "modeled_by": "Jason Z",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Jason Z Soldano - Super Lead Overdrive pedal nice crunchy rhythm tone.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/soldano-slo-pedal"
+}

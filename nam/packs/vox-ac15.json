@@ -1,0 +1,61 @@
+{
+  "id": "vox-ac15",
+  "label": "Vox AC15",
+  "vendor": "Vox",
+  "category": "amp",
+  "gear_model": "Vox AC15",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Vox AC15CH Crunch TB.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vox AC15CH Crystal Clean Normal.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vox AC15CH Crunch Normal.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vox AC15CH Overdriven Normal.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vox AC15CH Edge of Breakup TB.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vox AC15CH Overdriven TB.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vox AC15CH Edge of Breakup Normal.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Vox AC15CH Crystal Clean TB.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

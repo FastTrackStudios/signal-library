@@ -1,0 +1,19 @@
+{
+  "id": "extreme-metal-pack-orange",
+  "label": "Extreme Metal Pack — Orange",
+  "vendor": "Extreme Metal Pack",
+  "category": "amp",
+  "gear_model": "Orange",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Orange Julius_AgroTS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

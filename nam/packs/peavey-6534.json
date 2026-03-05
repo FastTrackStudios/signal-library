@@ -1,0 +1,37 @@
+{
+  "id": "peavey-6534",
+  "label": "Peavey 6534+",
+  "vendor": "Peavey",
+  "category": "amp",
+  "gear_model": "6534+",
+  "modeled_by": "Helga B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Helga B 6534+ MXR M77 - Helga Behrens.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6534+ MXR M77.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6534+ No Boost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B 6534+ OD808.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/peavey-6534"
+}

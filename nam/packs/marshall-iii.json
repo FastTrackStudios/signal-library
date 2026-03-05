@@ -1,0 +1,43 @@
+{
+  "id": "marshall-iii",
+  "label": "Marshall III",
+  "vendor": "Marshall",
+  "category": "amp",
+  "gear_model": "III",
+  "modeled_by": "Helga B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Helga B III Blue - M77 Boost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B III Blue - NoBoost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B III Red - 805 Boost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B III Red - NoBoost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B III Red - NoBoostBALLS.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/marshall-iii"
+}

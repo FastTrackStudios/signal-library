@@ -1,0 +1,55 @@
+{
+  "id": "dirty-tree",
+  "label": "Dirty Tree DT-33",
+  "vendor": "Dirty Tree",
+  "category": "drive",
+  "gear_model": "DT-33",
+  "modeled_by": "Peter N / Phillipe P",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Peter N DirtyTree DT-33_V7_Feather_ESR-0.0001.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Peter N DirtyTree DT-33_V7_Lite_ESR-0.0001.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Peter N DirtyTree DT-33_V7_Std_ESR-0.0001.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Peter N DirtyTree DT-TC_V7_L3_H7_Feather-ESR-0.0001.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Peter N DirtyTree DT-TC_V7_L3_H7_Lite-ESR-0.0001_(v1).nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Peter N DirtyTree DT-TC_V7_L3_H7_Std_ESR-0.0001_(v1).nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Phillipe P Dirty Tree-Feather-ESR0,001.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "drives/dirty-tree"
+}

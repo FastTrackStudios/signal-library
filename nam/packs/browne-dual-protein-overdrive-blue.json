@@ -1,0 +1,49 @@
+{
+  "id": "browne-dual-protein-overdrive-blue",
+  "label": "Browne Dual Protein Overdrive — Blue",
+  "vendor": "Browne",
+  "category": "drive",
+  "gear_model": "Blue",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "BLUE GAIN 4.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BLUE GAIN 2.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BLUE GAIN 3.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BLUE GAIN 6.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BLUE GAIN 5.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "BLUE GAIN 1.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "evh-5150-iii-pack",
+  "label": "EVH 5150 III Pack",
+  "vendor": "EVH",
+  "category": "amp",
+  "gear_model": "EVH 5150 III Pack",
+  "modeled_by": null,
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "EVH 5150+Bad monkey.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "EVH 5150+Vintage overdrive.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "EVH 5150+TS9.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": null
+}

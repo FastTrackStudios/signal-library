@@ -1,0 +1,55 @@
+{
+  "id": "peavey-jsx",
+  "label": "Peavey JSX",
+  "vendor": "Peavey",
+  "category": "amp",
+  "gear_model": "JSX Ultra",
+  "modeled_by": "Helga B",
+  "default_tone": null,
+  "characters": [],
+  "files": {
+    "Helga B JSX Ultra - M77(FIXED).nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B JSX Ultra - M77(GROUND HUM).nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B JSX Ultra - No Boost.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B JSX Ultra - OD808.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B JSX-Crunch-M77-ESR0,007.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B JSX-Crunch-NoBoost-0,004.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    },
+    "Helga B JSX-Crunch-OD808-ESR0,007.nam": {
+      "tone": null,
+      "boost_pedal": null,
+      "characters": [],
+      "tags": []
+    }
+  },
+  "directory": "amps/peavey-jsx"
+}
