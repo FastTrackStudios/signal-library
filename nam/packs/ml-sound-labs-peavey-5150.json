@@ -9,7 +9,7 @@
   "characters": [],
   "files": {
     "ML PEAV Block Lead FULL.nam": {
-      "tone": null,
+      "tone": "lead",
       "boost_pedal": null,
       "characters": [],
       "tags": []
@@ -33,13 +33,13 @@
       "tags": []
     },
     "ML PEAV Block Drive FULL.nam": {
-      "tone": null,
+      "tone": "drive",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML PEAV Block Clean FULL.nam": {
-      "tone": null,
+      "tone": "clean",
       "boost_pedal": null,
       "characters": [],
       "tags": []

@@ -9,13 +9,13 @@
   "characters": [],
   "files": {
     "ML ORNG Rock Clean FULL.nam": {
-      "tone": null,
+      "tone": "clean",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML ORNG Rock Drive FULL.nam": {
-      "tone": null,
+      "tone": "drive",
       "boost_pedal": null,
       "characters": [],
       "tags": []
@@ -27,7 +27,7 @@
       "tags": []
     },
     "ML ORNG Rock Lead FULL.nam": {
-      "tone": null,
+      "tone": "lead",
       "boost_pedal": null,
       "characters": [],
       "tags": []

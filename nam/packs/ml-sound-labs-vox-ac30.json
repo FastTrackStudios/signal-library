@@ -9,7 +9,7 @@
   "characters": [],
   "files": {
     "ML VX30 1964 Clean FULL.nam": {
-      "tone": null,
+      "tone": "clean",
       "boost_pedal": null,
       "characters": [],
       "tags": []
@@ -33,13 +33,13 @@
       "tags": []
     },
     "ML VX30 1964 Overdrive FULL.nam": {
-      "tone": null,
+      "tone": "overdrive",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML VX30 1964 Drive FULL.nam": {
-      "tone": null,
+      "tone": "drive",
       "boost_pedal": null,
       "characters": [],
       "tags": []

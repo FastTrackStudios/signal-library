@@ -15,13 +15,13 @@
       "tags": []
     },
     "ML MEGA MK4 Lead FULL.nam": {
-      "tone": null,
+      "tone": "lead",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML MEGA MK4 Clean FULL.nam": {
-      "tone": null,
+      "tone": "clean",
       "boost_pedal": null,
       "characters": [],
       "tags": []
@@ -33,7 +33,7 @@
       "tags": []
     },
     "ML MEGA MK4 Drive FULL.nam": {
-      "tone": null,
+      "tone": "drive",
       "boost_pedal": null,
       "characters": [],
       "tags": []

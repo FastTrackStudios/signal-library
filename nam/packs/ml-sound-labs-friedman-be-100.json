@@ -21,7 +21,7 @@
       "tags": []
     },
     "ML FMAN HBE Lead FULL.nam": {
-      "tone": null,
+      "tone": "lead",
       "boost_pedal": null,
       "characters": [],
       "tags": []
@@ -33,13 +33,13 @@
       "tags": []
     },
     "ML FMAN BE Plexi FULL.nam": {
-      "tone": null,
+      "tone": "crunch",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML FMAN BE Drive FULL.nam": {
-      "tone": null,
+      "tone": "drive",
       "boost_pedal": null,
       "characters": [],
       "tags": []

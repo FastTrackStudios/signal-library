@@ -21,19 +21,19 @@
       "tags": []
     },
     "ML JAZZ 120 Overdrive FULL.nam": {
-      "tone": null,
+      "tone": "overdrive",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML JAZZ 120 Clean FULL.nam": {
-      "tone": null,
+      "tone": "clean",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML JAZZ 120 Drive FULL.nam": {
-      "tone": null,
+      "tone": "drive",
       "boost_pedal": null,
       "characters": [],
       "tags": []

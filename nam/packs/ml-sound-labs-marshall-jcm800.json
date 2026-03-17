@@ -9,7 +9,7 @@
   "characters": [],
   "files": {
     "ML MARS 800 Clean FULL.nam": {
-      "tone": null,
+      "tone": "clean",
       "boost_pedal": null,
       "characters": [],
       "tags": []
@@ -33,13 +33,13 @@
       "tags": []
     },
     "ML MARS 800 Lead FULL.nam": {
-      "tone": null,
+      "tone": "lead",
       "boost_pedal": null,
       "characters": [],
       "tags": []
     },
     "ML MARS 800 Drive FULL.nam": {
-      "tone": null,
+      "tone": "drive",
       "boost_pedal": null,
       "characters": [],
       "tags": []
